@@ -1,0 +1,213 @@
+.register__container{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    height: 100vh;
+    width: 100%;
+}
+.register__container-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    z-index: 1;
+    background: linear-gradient(0deg, rgb(29, 57, 50) 0%, rgb(10, 105, 75) 100%);
+    max-height: calc(100%);
+    padding-bottom: 25%;
+}
+.register__container-left h1{
+    font-weight: 700;
+    color: var(--white);
+    font-size: 3rem;
+    letter-spacing: 1.5px;
+}
+.register__container-right{
+    z-index: 0;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.form-register{
+    background: #edebe9;
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;    
+}
+.form-register__text{
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding-bottom: 15px;
+}
+.form-register__intro{
+    display: flex;
+    font-size: 1.6rem;
+    align-items: center;
+    color: black;
+    letter-spacing: 0.5px;
+}
+.form-register__intro h3{
+    font-weight: 700;
+}
+.form-register__intro small{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+/* .form-register p {
+    font-size: 1.6rem;
+    color: var(--dark);
+} */
+
+.field-register{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.field-register__label{
+    font-size: 1.4rem;
+}
+.field-register__label::before{
+    content: '* ';
+    color: red;
+}
+.field-register__input{
+    position: relative;
+}
+.field-register__input input{
+    border: none;
+    border-bottom: 1px solid #d1d4d6;
+    background: none;
+    font-weight: 700;
+    width: 85%;
+    padding-left: 1rem;
+    font-size: 1.6rem;
+    outline: none;
+}
+.rewards-inactive{
+    display: none;
+}
+.field-register__message{
+    font-size: 1.2rem;
+    color: red;
+    padding-top: 0;
+}
+
+.birthdate{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 400px;
+}
+.birthdate-label small{
+    color: black;
+    font-size: 1rem;
+}
+.birthdate small{
+    font-size: 1.2rem;
+}
+.month-day{
+    display: flex;
+    gap: 25px;
+}
+.month select,
+.day select{
+    text-align: center;
+    width: 9rem;
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 1.6rem;
+    color: var(--gray);
+}
+.rewards{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+.rewards h3{
+    font-size: 1.8rem;
+    color: black;
+}
+/* .rewards p{
+    font-size: 1.6rem;
+    color: var(--gray);
+} */
+.radio-1 input,
+.radio-2 input{
+    margin-right: 5px;
+    accent-color: var(--green-starbucks);
+}
+.radio-1 label,
+.radio-2 label{
+    font-size: 1.4rem;
+}
+.rewards-register{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.terms-conditions{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.terms-conditions h3{
+    font-size: 1.6rem;
+    color: black;
+}
+.newsletter,
+.terms{
+    font-size: 1.4rem;
+}
+.newsletter input,
+.terms input{
+    accent-color: var(--green-starbucks);
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+    border: 1px solid var(--gray);
+}
+.terms span a{
+    color: var(--green-starbucks);
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 1.5;
+}
+.button-container{
+    display: flex;
+    justify-content: flex-end;
+}
+.button-container button{
+    padding: 15px 25px;
+    width: 150px;
+    background: #00a862;
+    color: var(--white);
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.login-footer{
+    padding-left: 2rem;
+}
+@media screen and (max-width: 992px){
+    .register__container{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 3fr;
+    }
+    .register__container-right {
+        overflow: visible;
+    }
+    
+}

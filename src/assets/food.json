@@ -1,0 +1,853 @@
+[
+    {
+        "id": 1,
+        "name": "Alimentos",
+        "subcategory": [
+            {
+                "id": 1,
+                "name": "Para disfrutar a cualquier hora",
+                "image": "../src/assets/menu/complementos/2023-12_Baguette_Suprema.png",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Baguette Suprema",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "635 kcal 245 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Baguette_Suprema.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "Ensalada César",
+                        "ingredients": "Pollo grillado (pechuga y piel de pollo, glaseado (agua, sal yodada, harina de trigo, almidón modificado, especias, glutamato monosódico, saborizantes naturales, ácido cítrico, maltodextrina, goma guar, aceite vegetal, carboximetilcelulosa de sodio, guanilato de sodio, inosinato de sodio, colorantes naturales (caramelo clase IV, extracto de paprika), marinador (agua, maltodextrina, sal yodada, fosfato de sodio, saborizante natural, dióxido de silicio (antiapelmazante)), conservadores (benzoato de sodio, sorbato de potasio) y cebolla en polvo )), aderezo césar (agua, aceite vegetal, vinagre de alcohol de caña, azúcares añadidos (azúcar), fibra de trigo, almidón modificado de maíz, queso parmesano 2.1%, especias y condimentos (ajo, mostaza, perejil, pimienta), sal yodada, cloruro de potasio (acentuador de sabor), alginato de sodio y goma xantana (estabilizantes), extracto de levadura, cebolla, ácido fosfórico (acidulante), saborizantes natural e idéntico al natural, monoestearato de sorbitán (emulsificante), sorbato de potasio y ácido sórbico (conservadores), EDTA disódico cálcico (secuestrante)), lechuga mini romana, jitomate cherry, lechuga sangría, pasta mini fusilli (agua, pasta (sémola de trigo duro, sulfato ferroso, nicotinamida (niacina), mononitrato de tiamina (Vitamina B1), riboflavina (vitamina B2) y ácido fólico) y queso parmesano.",
+                        "allergens": "Contiene gluten (trigo) y derivados lácteos. Este producto es elaborado en equipo donde se procesan otros ingredientes por lo que puede contener trazas de soya, huevo, cacahuates, nueces, sésamo, pescado, crustáceos, mariscos y/o derivados",
+                        "information": "193 kcal 230 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Ensalada Cesar_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "Sándwich de Pavo y Panela",
+                        "ingredients": "Pan multigrano (harina de trigo, agua, harina integral, amaranto, harina de centeno, mezcla de semillas (ajonjolí blanco, salvado, avena, linaza, semilla de girasol, ajonjolí negro), mejorantes para panadería, propionato de sodio, sulfato de aluminio y sodio [como conservador], gluten de trigo, fibra de avena, ajonjolí negro y blanco), queso panela (leche entera fluida de vaca, proteína concentrada de leche, grasa vegetal, estabilizante, cloruro de calcio, cuajo y sal yodada), jamón de pechuga de pavo (pechuga de pavo, soya, agua, nitritos, nitratos y fosfatos de sodio, color rojo carmín, dextrosa y extracto sabor humo natural), hojas de espinaca y/o lechuga, aderezo de yogurt (Yogurt natural (leche entera pasteurizada de vaca, leche descremada en polvo, crema pasteurizada de leche de vaca, azúcar, estabilizantes y cultivos liofilizados), crema entera (crema pasteurizada de vaca con 25% grasa, ácido cítrico, mono y diglicéridos, goma guar y benzoato de sodio (0.025%) como conservador), aderezo mayonesa (agua, azúcar y/o jarabe de maíz de alta fructosa, aceite de soya, almidón de maíz modificado, yema de huevo, sal yodada, ácido acético, harina de mostaza, benzoato de sodio y sorbato de potasio como conservadores, goma de xantano, especias, condimentos, ácido fosfórico), salsa inglesa, cebollín, sal, pimienta negra y conservador).",
+                        "allergens": "Gluten, soya, huevo, leche y sus derivados.Puede contener trazas de nueces, almendras, cacahuate.",
+                        "information": "462 kcal 228 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Sandwich Pavo Panela_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 4,
+                        "name": "Piadini de Claras con Espinaca",
+                        "ingredients": "Pan (harina de trigo, agua, aceite de oliva, germen de trigo, sal yodatada, levadura (Saccharomyces cerevisiae), propionato de calcio, mejorante (mezcla de harina de trigo, emulsificantes (alfa amilasas, ADA y ácido ascórbico))), clara de huevo, imitación queso cheddar blanco (proteína de leche y grasa vegetal, adicionado con estabilizantes, ácido cítrico, colorante, sal yodatada y conservador), crema dulce para batir (crema de leche, estabilizador (goma guar, goma de algarrobo, carboximetil-celulosa de sodio y goma xantana)), queso ricotta (leche pasteurizada, suero pasteurizado, vinagre, almidón modificado, goma guar, carragenina, sal yodatada y sorbato de potasio), espinaca, almidón modificado, mantequilla (grasas de leche de vaca, agua, sólidos de la leche, lecitina de soya, sal yodada) y sal yodatada.",
+                        "allergens": "Gluten, derivados lácteos y huevo. Puede contener trazas de nueces, almendra, cacahuates y soya.",
+                        "information": "312 kcal 192 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Piadini de claras con Espinacas_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 5,
+                        "name": "Panini 3 Quesos",
+                        "ingredients": "Pan imitación ciabatta (Harina de trigo enriquecida (tiamina, ácido fólico, riboflavina, niacina, hierro y zinc), agua, malta, fermento, sal yodada, levadura (Saccharomyces cerevisiae), aceite de canola, azúcar, ésteres mixtos acéticos y tartáricos de mono y diglicéridos de ácidos grasos, propionato de calcio como conservador), queso imitación gouda (leche entera pasteurizada de vaca, sal yodada, cloruro de calcio, cuajo y cultivos lácticos), queso imitación mozzarella (proteína de leche, grasa vegetal, estabilizantes (almidón modificado de maíz), sal yodatada, citrato de sodio, ácido cítrico, conservadores naturales (nisina y pimarisina), color, (bióxido de titanio y sabor natural enzimático))), queso de cabra con cenizas (Leche entera pasteurizada de cabra, sal yodada, ceniza grado alimenticio, sorbato de potasio, y propionato de sodio (para mantener frescura), cloruro de calcio, cultivos lácticos, y cuajo.), y tomate deshidratado (Tomate deshidratado, sal yodada, especias, laurel, orégano, ajo, cebolla, benzoato de sodio y sorbato de potasio (como conservadores), TBHQ y sulfito de sodio)",
+                        "allergens": "Contiene: gluten de trigo, centeno, leche, derivados lácteos y sulfitos. Puede contener trazas de huevo, soya, nueces, almendras y cacahuate",
+                        "information": "697 kcal 198 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Panini 3 quesos_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 6,
+                        "name": "Grilled Cheese Sándwich",
+                        "ingredients": "Pan tipo brioche ( Harina de trigo, mix para pan de caja (harina de trigo enriquecida (niacina, hierro reducido, tiamina, riboflavina y ácido fólico), azúcar, suero de leche, sal, aceite de canola, propionato de sodio, harina de soya, emulsificantes (monoglicéridos de ácidos grasos, ésteres de ácido diacetil tartárico) y enzimas), agua, huevo, gel color amarillo (agua, almidón, glicerina, azúcar, ácido cítrico, conservadores, amarillo 5 y 6, azul 1 y 2, rojo 3 y 4 o bióxido de titanio), azúcar refinada, levadura instantánea, margarina, mantequilla y propionato de calcio como conservador. Queso gouda (Leche semidescremada pasteurizada, Sal, Cloruro de calcio, Cuajo, Fermento láctico, Nitrato de sodio) Queso cheddar amarillo (Leche pasteurizada, cultivo de queso, sal, enzimas, fecula de papa, celulosa en polvo, color vegetal) Queso mozzarella (Leche Pasteurizada, Cultivo De Queso, Sal, y Enzimas).",
+                        "allergens": "Contiene gluten, soya, huevo, leche y derivados lácteos. Puede contener trazas de almendras, nueces, cacahuates, frutos secos como arándanos, pasas y sus derivados.",
+                        "information": "470 kcal 160 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Grilled Cheese Sandwich_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 7,
+                        "name": "Envuelto Poblano",
+                        "ingredients": "Masa (harina de trigo (harina de trigo, gluten, hierro (sulfato ferroso), niacina, zinc (óxido de zinc), tiamina, riboflavina, ácido fólico, peróxido de benzoilo, azodicarbonamida, enzima y ácido ascórbico), agua, manteca vegetal, azúcar, sal yodada, sorbato de potasio), relleno poblano (queso crema, rajas poblanas, cebolla, elote en grano, pollo, azúcar y caldo de pollo en polvo), huevo (barnizado), queso parmesano, pan molido y paprika (decorado).",
+                        "allergens": "Contiene: gluten de trigo, derivados lácteos y huevo. Puede contener trazas de huevo, soya, nueces, almendras y cacahuate",
+                        "information": "476 kcal 200 g",
+                        "image": "../src/assets/menu/complementos/2022-02_ENVUELTO POBLANO_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 8,
+                        "name": "Baguette Clásica",
+                        "ingredients": "Harina de TRIGO, agua, levadura, sal, gluten de TRIGO, fibra de Baguette: TRIGO, agente de tratamiento de la harina (E300), harina de malta de TRIGO. Pechuga de Pavo: Carne de pavo, agua, fécula, almidón modificado, proteína aislada de soya, sal yodada, carragenina, dextrosa, maltodextrina, fosfato de sodio, lactato de sodio, saborizantes naturales y artificiales, eritorbato de sodio, citrato de sodio, nitrito de sodio, carmí. Aderezo: Aceite vegetal, agua, yema de huevo, azúcares añadidos (fructosa), vinagre, chile chipotle, sal yodada, especias, jugo de limón, saborizante natural, harina de mostaza y EDT",
+                        "allergens": "Contiene trigo y huevo, puede contener trazas de: leche y soya.",
+                        "information": "540 kcal 241 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Baguette Clasico_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 9,
+                        "name": "Baguette Española",
+                        "ingredients": "Harina de TRIGO, agua, levadura, sal, gluten de TRIGO, fibra de Baguette: TRIGO, agente de tratamiento de la harina (E300), harina de malta de TRIGO. Chorizo: Carne y grasa de cerdo, sal, azúcares (lactosa y azúcar), dextrina, especias, polifosfato sódico, polifosfato potásico, ácido sórbico, ascorbato sódico, nitrato potásico, nitrito de sodio y rojo cochinilla. Queso gouda: Leche entera y pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo y natamicina como conservador. Aderezo: Aceite vegetal, agua, yema de huevo, azúcares añadidos (fructosa), vinagre, chile chipotle, sal yodada, especias, jugo de limón, saborizante natural, harina de mostaza y EDT",
+                        "allergens": "Contiene trigo y huevo, puede contener trazas de: leche y soya.",
+                        "information": "630 kcal 194 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Baguette Española_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 10,
+                        "name": "Bagel con pechuga y queso",
+                        "ingredients": "Harina de trigo integral (gluten), azúcar, sal yodada, levadura, semóla de maíz, gluten de trigo, mono y diglicéridos, propionato de calcio, goma gar, enzimas, ácido sórbico, grasa vegetal, maltodexgtrina, alginato sódico, lecitina de soya. embutido de pavo (carne de pavo, agua, sazonador (almidón de papa, proteínas de soya, sal yodada, almidón de maíz modificado, carragenina, saborizante artificial (leche, soya), azúcares añadidos (dextrosa), nitrito de sodio, tripolifosfato de sodio, eritorbato de potasio,benzoato de sodio, sorbato de potasio)), almidones modificados y estabilizados de maíz, sal yodada, nitrito de sodio, nisina, carmín cochinilla y aroma de humo artificial) queso gouda: leche entera y pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo y natamicina como conservador.",
+                        "allergens": "Contiene gluten y soya.",
+                        "information": "370 kcal 174 g",
+                        "image": "../src/assets/menu/complementos/2022-02_BagelJamonQueso_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 11,
+                        "name": "Bagel con Guacamole y Queso Crema",
+                        "ingredients": "Bagel: harina de trigo integral (gluten), azúcar, sal yodada, levadura, semóla de maíz, gluten de trigo, mono y diglicéridos, propionato de calcio, goma gar, enzimas, ácido sórbico, grasa vegetal, maltodexgtrina, alginato sódico y lecitina de soya. Queso crema:Leche, crema, agua, suero de leche, cultivos lácticos, sal, sorbato de potasio como conservador, estabilizantes (ácido láctico, goma guar, goma algarrobo, goma xantana), Guacamole: Pulpa de aguacate, jitomate, cebolla, chile jalapeño, jugo de limón, sal y cilantro.",
+                        "allergens": "Contiene leche, gluten y soya.",
+                        "information": "440 kcal 180 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Bagel Guacamole y Queso crema_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 12,
+                        "name": "Breakfast Muffin",
+                        "ingredients": "English Muffin: HARINA DE TRIGO (GLUTEN), GRANO DE TRIGO, LEVADURA, AZÚCAR, SAL, PROPIONATO DE CALCIO, ÁCIDO SÓRBICO, ACEITE VEGETAL, GLUTEN DE TRIGO, VINAGRE, HARINA DE SOYA, LECHE DESCREMADA, SÓLIDOS DE LA LECHE. Empanada de huevo revuelto: Huevo Entero, Leche Descremada, Aceite de Soya, Sal, Almidón Modificado, Saborizante Natural y Artificial a Mantequilla (Aceite de Soya, Mantequilla, Grasa de Mantequilla Lipolizada, Saborizantes Naturales y Artificiales), Saborizantes Naturales y Artificiales de Huevo (Yema de Huevo Deshidratada, Almidón Modificado, Leche en Polvo, Leche en Polvo Descremada, Saborizantes Naturales y Artificiales, Sal), Goma Xanthan, Acido Cítrico. Pechuga de pavo: Carne de pavo, agua, fécula, almidón modificado, proteína aislada de soya, sal yodada, carragenina, dextrosa, maltodextrina, fosfato de sodio, lactato de sodio, saborizantes naturales y artificiales, eritorbato de sodio, citrato de sodio, nitrito de sodio, carmí. Queso gouda: Leche entera y pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo y natamicina como conservador.",
+                        "allergens": "Gluten, huevo, leche y soya",
+                        "information": "240 kcal 130 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Breakfast Muffin_1.png",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Momentos dulces",
+                "image": "../src/assets/menu/complementos/2023-12_Dona-Old-Fashioned.png",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Dona Old Fashioned Vainilla",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "395 kcal 94 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Dona-Old-Fashioned.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "Dona Caramelo",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "403 kcal 81 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Dona-Caramelo.png",
+                        "description": ""
+                    },
+                    {
+
+                        "id": 3,
+                        "name": "Celebration Cake",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "555 kcal 150 g",
+                        "image": "../src/assets/menu/complementos/2023-12_CelebrationCake02.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 4,
+                        "name": "Pastel de zanahoria",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "628.7 kcal 165 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Pastel-de-Zanahoria.png",
+                        "description": ""
+                    },                        
+                    {
+                        "id": 5,
+                        "name": "Pan de elote",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "415 kcal 121 g",
+                        "image": "../src/assets/menu/complementos/2023-12_pan-de-elote.png",
+                        "description": ""  
+                    },
+                    {
+                        "id": 6,
+                        "name": "Tarta de Moras con Chocolate Blanco",
+                        "ingredients": "Harina de trigo, blueberry o zarzamoras, chispa de sabor chocolate, margarina, leche condensada, mantequilla, crema para batir, azúcar glass, huevo, glucosa, grasa vegetal, chocolate blanco, sal",
+                        "allergens": "Gluten, huevo y derivados lácteos. Producto elaborado en equipos que procesan nueces, almendras, etc.",
+                        "information": "512.2 kcal 130 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Tarta-de-Moras-con-Chocolate-Blanco-_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 7,
+                        "name": "Pastel de Chocolate",
+                        "ingredients": "Azúcar refinada, huevo entero, leche entera, harina de trigo, mantequilla, cocoa, almidón modificado de maíz, vinagre, propionato de calcio, leudante, sal yodatada, bicarbonato de sodio, jarabe de azúcar, ganache de chocolate (Crema dulce, chocolate semiamargo, mantequilla, azúcar invertido, color negro) y nuez.",
+                        "allergens": "Alergenos: Gluten, huevo, nuez y leche.Puede contener trazas de almendra, cacahuate y soya",
+                        "information": "796,4 kcal 220 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Pastel de Chocolate_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 8,
+                        "name": "Cheesecake Brulee con Frambuesa",
+                        "ingredients": "Queso crema (leche y crema pasteurizada, cultivos lácticos, sal, estabilizantes), azúcar refinada, huevo líquido, galleta molida (harina de trigo adicionada con ácido fólico, zinc, hierro, vitamina B1 (mononitrato de tiamina), vitamina B2 (riboflavina) y vitamina B3 (niacina), aceite vegetal, azúcar, jarabe de maíz de alta fructosa, suero de leche, sal yodada, glucosa, bicarbonato de sodio, bicarbonato de amonio, metabisulfito de sodio y saborizantes artificiales y naturales), crema de leche (crema de leche, estabilizador (goma guar, goma de algarrobo, carboximetil-celulosa de sodio y goma xantano), relleno de frambuesa (jugo de frutas, azúcar, dextrosa, almidón de maíz modificado, ácido cítrico, saborizante artificial, citrato de sodio, gomas naturales, sal yodada, benzoato de sodio como conservador, ácido tartárico, sucralosa, colorantes artificiales (rojo #5, azul #1), crema ácida (leche pasteurizada y grasa butírica, cultivos lácticos, leche descremada, suero de leche grado A, almidón de maíz modificado, tripolifosfato de sodio, goma guar, carragenina, sulfato de calcio, sorbato de potasio, goma de algarroba), mantequilla (grasa de leche de vaca, agua, sólidos de la leche, lecitina de soya, sal yodada y colorante natural (extracto de annato)), chocolate blanco (azúcar, leche entera, manteca de cacao, emulsificantes (lecitina de soya, poliglicerol de polirricinoleato), saborizantes artificiales y saborizante natural, sal), almidón de maíz modificado, ácido cítrico y sabor vainilla (agua, alcohol etílico, propilenglicol, colorante caramelo clase 1 y saborizantes artificiales).",
+                        "allergens": "Alérgenos: Huevo, gluten, derivados lácteos y soya. Puede contener trazas de nueces, almendras y cacahuate",
+                        "information": "600,3 kcal 175 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Cheesecake Brulee con Frambuesa_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 9,
+                        "name": "Panque de linaza",
+                        "ingredients": "Leche entera, harina de trigo, azúcar moscabado, huevo entero, aceite comestible, granola (hojuelas de avena, hojuelas de maíz, sémola de trigo, almendras, arroz inflado, aceite vegetal de soya, polidextrosa, saborizante natural y artificial, glicerina, sucralosa, sal yodada y antioxidante BHT), miel de abeja, arándano, uva pasa, germen de trigo, linaza, vinagre, monoglicéridos, almidón modificado de trigo, bicarbonato de sodio, canela molida, fibra de avena, leudante (carbonato de calcio, bicarbonato de sodio, sulfato de aluminio y pirofosfato ácido de sodio), propionato de calcio (como conservador), extracto de vainilla, sal yodatada y goma xantana.",
+                        "allergens": "Gluten, huevo y leche. Puede contener trazas de almendra y nuez",
+                        "information": "389 kcal 146 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Panque de Linaza_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 10,
+                        "name": "Panque de limón",
+                        "ingredients": "Azúcar refinada, harina de trigo, crema ácida, huevo, aceite comestible de canola, mono y diglicéridos destilados, estearoil lactilato de sodio, leudante (carbonato de calcio, bicarbonato de sodio, sulfato dealuminio y pirofosfato ácido de sodio), sabor limón, sal yodatada, goma xantana, sorbato de potasio (como conservador), agua y color verde.",
+                        "allergens": "Gluten, huevo y derivados lácteosPuede contener trazas de soya, nuez y cacahuates.",
+                        "information": "501 kcal 148 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Panque de Limon_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 11,
+                        "name": "Muffin de Chocochips",
+                        "ingredients": "Harina de trigo, agua, azúcar, chocolate, aceite comestible, azúcar moscabado, azúcar refinada, huevo, margarina, cocoa, leche entera en polvo, almidón modificado de trigo, vainilla, propionato de sodio,goma xantana, bicarbonato de sodio, leudante (carbonato de calcio, bicarbonato de sodio, sulfato de aluminio y pirofosfato ácido de sodio), café soluble, sal yodatada y sorbato de potasio.",
+                                "allergens": "Alergenos: Gluten, huevo, leche y soya.Puede contener trazas de: nueces y almendra",
+                        "information": "566 kcal 145 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Muffin Chocochips_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 12,
+                        "name": "Muffin de Blueberry",
+                        "ingredients": "Harina de trigo, azúcar refinada, huevo entero, mora azul, leche entera, aceite comestible, yogurt natural, mantequilla, emulsificante (mono y diglicéridos destilados, esteraoil lactilato de sodio), sal yodatada, vainilla, goma xantana, leudante (carbonato de calcio, bicarbonato de sodio, sulfato de aluminio pirofosfato ácido de sodio), sorbato de potasio como conservador y bicarbonato de sodio.",
+                        "allergens": "Gluten, huevo, leche y derivados lácteos.Puede contener trazas de nuez, almendra y derivados de soya.",
+                        "information": "480 kcal 140 g",
+                        "image": "../src/assets/menu/complementos/2022-02_muffin de blueberry_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 13,
+                        "name": "Mini Cronut Chocolate Blanco",
+                        "ingredients": "Masa (para todas las donas): Harina de TRIGO, grasa vegetal (palma), agua, margarina (grasa vegetal (palma), agua, aceites vege tales (soja, girasol), emulgentes (E471), acidulante (E330), colorant e (E160a)), azúcar, levadura, sal, gluten de TRIGO, antiapelmazante (E 170), emulgentes (E471, E472, E322 (girasol, TRIGO)), dextrosa, harina malteada de TRIGO y agente de tratamiento de la harina (E300). Cobertura 27%: Azúcar, grasas vegetales (coco, p almiste), suero de la LECHE en polvo, LACTOSA, almidón, estabilizante (E492), emulgente (E322). Decorado 4,5%: Azúcar, manteca de cacao, LE CHE en polvo, pasta de cacao, aroma.",
+                        "allergens": "Contiene glúten, leche y derivados, avellana y nueces. También puede contener trazas de huevo o sus derivados y de soya.",
+                        "information": "222 kcal 44 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Mini Cronut Chocolate Blanco_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 14,
+                        "name": "Mini Cronut Chocolate",
+                        "ingredients": "Masa (para todas las donas): Harina de TRIGO, grasa vegetal (palma), agua, margarina (grasa vegetal (palma), agua, aceites vege tales (soja, girasol), emulgentes (E471), acidulante (E330), colorant e (E160a)), azúcar, levadura, sal, gluten de TRIGO, antiapelmazante (E 170), emulgentes (E471, E472, E322 (girasol, TRIGO)), dextrosa, harina malteada de TRIGO y agente de tratamiento de la harina (E300). Cobertura 20%: Azúcar, grasas vegetales (coco, palmiste), cacao desgrasado en polvo 1,8%, LECHE en polvo, aromas, estab ilizante (E492), emulgente (E322). Decorado 5%: AVELLANA y azúcar.",
+                        "allergens": "Contiene glúten, leche y derivados, avellana y nueces. También puede contener trazas de huevo o sus derivados y de soya.",
+                        "information": "203 kcal 40 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Mini cronut chocolate_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 15,
+                        "name": "Dona de Chocolate",
+                        "ingredients": "Harina de trigo enriquecido (niacina, hierro reducido, tiamina, riboflavina y ácido fólico), azúcar, dextrosa, aceite vegetal, suero de leche, harina de soya, huevo en polvo, cocoa, almidón modificado, sal, lecitina de soya, pirofosfato ácido de sodio, monoglicérido, fosfato monocalcico, bicarbonato de sodio, sabor artificial y enzimas. COBERTURA: Azúcar, grasa vegetal hidrogenada, sólidos de cocoa, almidón, carbonato de calcio, harina de algarrobo, lecitina de soya (como emulsificante) y sabor idéntico al natural (vainillina).",
+                        "allergens": "Trigo (gluten), huevo, derivados lácteos y soya.Puede contener trazas de nueces",
+                        "information": "430 kcal 90 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Dona de Chocolate_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 16,
+                        "name": "Cronut de Chocolate",
+                        "ingredients": "Harina de TRIGO, grasa vegetal (palma), agua, margarina (grasa vegetal (palma), agua, aceites vegetales (soja, girasol), emulgentes (E 471), acidulante (E330), colorante (E160a)), azúcar, levadura, sal, gluten de TRIGO, antiapelmazante (E170), emulgentes (E471, E472, E322)), dextrosa, harina malteada de TRIGO y agente de tratamiento de la harina (E300). Cobertura 16%: Azúcar, grasa vegetal (coco, palma, palmiste), cacao desgrasado en polvo, LECHE en polvo, aromas naturales, estabilizante (E492) y emulgente (E322). Decorado 4,2%: mezcla chocolates (azúcar, manteca, cacao, pasta cacao, LECHE polvo, LECHE desnatada polvo, mantequilla (LECHE), emulgente (E322, E476), aromas naturales y espesante (E414)).",
+                        "allergens": "Contiene: gluten (trigo) y leche. Puede contener: frutos de cáscara (avellanas y nueces), huevos y soya.",
+                        "information": "468 kcal 95 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Cronut Chocolate_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 17,
+                        "name": "Bagel Tradicional con Mermelada y Queso Crema",
+                        "ingredients": "Harina de trigo integral (gluten), azúcar, sal yodada, levadura, semóla de maíz, gluten de trigo, mono y diglicéridos, propionato de calcio, goma gar, enzimas, ácido sórbico, grasa vegetal, maltodexgtrina, alginato sódico y lecitina de soya. Mermelada: Fresa o chabacano, jarabe de maíz de alta fructuosa, jarabe de maíz, azúcar, pectina de fruta y ácido cítrico. Queso crema:Leche, crema, agua, suero de leche, cultivos lácticos, sal, sorbato de potasio como conservador, estabilizantes (ácido láctico, goma guar, goma algarrobo, goma xantana)",
+                        "allergens": "Contiene leche, gluten y soya.",
+                        "information": "498 kcal 151 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Bagel Tradicional con Mermelada y Queso Crema_1.png",
+                        "description": ""
+                    }                    
+                ] 
+            },
+            {
+                "id": 3,
+                "name": "Recién horneado",
+                "image": "../src/assets/menu/complementos/2023-12_Strudel de Manzana.png",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Struddel Manzana",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "301 kcal 100 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Strudel de Manzana.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "Biscuit Dulce de Leche",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "276 kcal 85 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Biscuit-Dulce-de-Leche.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "Biscuit de Arándanos con Queso",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "318 kcal 85 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Biscuit Arandano.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 4,
+                        "name": "Pan de queso",
+                        "ingredients": "Almidón de yuca, leche , queso parmesano (leche parcialmente descremada, sal, enzimas, cultivos, harina de arroz, manteca vegetal, harina de maíz), queso cotija (leche y/o productos de estas, cultivos de bacterias de fermentos innocuas productoras de ácido láctico y/o modificadores del sabor y aroma, enzimas inocuas e idóneas), huevo líquido pasteurizado , aceite vegetal comestible (puede contener canola, girasol y soya) y sal (cloruro de sodio, fluoruro de potasio, yodato de potasio).",
+                        "allergens": "Huevo, soya, leche y sus derivados",
+                        "information": "288 kcal 100 g",
+                        "image": "../src/assets/menu/complementos/2023-03_Pan-de-quesoFF.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 5,
+                        "name": "Croissant de Mantequilla con Pechuga y Queso",
+                        "ingredients": "Pan croissant (harina de trigo, agua, azúcares añadidos (azúcar dextrosa), gluten de trigo, levadura, huevo líquido pasteurizado, sal yodada, ácido ascórbico, ésteres de glicerol y ácidos grasos del ácido diacetil tartárico), embutido de pavo (carne de pavo, agua, sazonador (almidón de papa, proteínas de soya, sal yodada, almidón de maíz modificado, carragenina, saborizante artificial (leche, soya), azúcares añadidos (dextrosa), nitrito de sodio, tripolifosfato de sodio, eritorbato de potasio,benzoato de sodio, sorbato de potasio)), almidones modificados y estabilizados de maíz, sal yodada, nitrito de sodio, nisina, carmín cochinilla y aroma de humo artificial), queso gouda  (leche entera pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo, natamicina).",
+                        "allergens": "Contiene: gluten, huevos y leche. Puede contener frutos de cáscara, soja y sésamo",
+                        "information": "437 kcal 149 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Crossaint de Mantequilla con pechuga de pavo y queso_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 6,
+                        "name": "Pan de Chocolate",
+                        "ingredients": "Harina de trigo, agua, mantequilla, chocolate (azúcar, pasta de cacao 6,8%, manteca de cacao 0,44%, emulgente E322 (lecitinas (soja))), azúcar, levadura, gluten de trigo, sal, huevo liquido pasteurizado, mejorador de la panificación (ácido ascórbico), dextrosa, emulgente (ésteres diacetiltartaricos y de los ácidos grasoso del glicerol).",
+                        "allergens": "Contiene gluten, huevos, soja y leche. Puede contener frutos de cáscara y sésamo",
+                        "information": "200 kcal 85 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Pan de Chocolate_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 7,
+                        "name": "Croissant de Mantequilla",
+                        "ingredients": "Harina de trigo, mantequilla, agua, azúcar, gluten de trigo, levadura, huevo líquido pasteurizado, sal, agente de tratamiento de la harina E300), dextrosa, emulgente (E472e).",
+                        "allergens": "Contiene: gluten, huevos y leche. Puede contener frutos de cáscara, soja y sésamo",
+                        "information": "150 kcal 70 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Croissant Mantequilla_1.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 8,
+                        "name": "Cheesecake Roulet",
+                        "ingredients": "Masa: Harina de TRIGO, margarina vegetal (grasa vegetal (palma), aceites vegetales (soja, girasol), jarabe de glucosa-fructosa, agua, emulsionantes (E322, E471), acidulante (E330), aromas, colorante (E160a)), agua , levadura, dextrosa, sal, gluten de TRIGO, emulgentes E472e, E471) , espesantes (E415, E412), aroma natural, agente de tratamiento de la harina (E300, E920). Relleno 34%: Relleno de queso 23% (crema de QU ESO, azúcar, agua, jarabe de glucosa, HUEVO entero , clara de HUEVO, almidón modificado, acidulante (E270), espesantes (E466, E460), aroma natural, colorante (E171), emulgente (E471), sal), relleno de frambuesa a 11% (azúcar, frambuesa, agua, jarabe de glucosa, gelificantes (E440 , E401), acidulante (E330), correctores de acidez (E331, E341), colorante (zumo de frutas y vegetales), aroma). Cobertura 3,3%: Azúcar, HUEVO líquido pasteurizado.",
+                        "allergens": "Contiene glúten, huevo, leche y derivados. Puede contener trazas de frutos de cáscara, soja, pescado, sésamo.",
+                        "information": "307 kcal 80 g",
+                        "image": "../src/assets/menu/complementos/2022-02_Cheesecake Roulet_1.png",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Para compartir",
+                "image": "../src/assets/menu/complementos/2023-12_Media-docena-croissants-pechuga-y-queso.png",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Media docena de croissants de pechuga y queso",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "2622 kcal 894 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Media-docena-croissants-pechuga-y-queso.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "Panqué completo de limón",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "3553.9 kcal 1050 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Panqué-de-limón.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "Panadería Bis",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "1200 kcal 480 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Panaderia-Bis.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 4,
+                        "name": "Pan de queso 4x3",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "1153.6 kcal 400 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Pan-de-Queso-4x3.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 5,
+                        "name": "Docena de minicronuts",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "1326 kcal 264 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Docena-Minicronuts.png",
+                        "description": ""
+                    },
+                    {
+                        "id": 6,
+                        "name": "Media Docena de donas de chocolate",
+                        "ingredients": "",
+                        "allergens": "",
+                        "information": "2580 kcal 540 g",
+                        "image": "../src/assets/menu/complementos/2023-12_Media-Docena-de-Donas-Doble-Chocolate.png",
+                        "description": ""
+                    }
+                ]
+            }
+        ]   
+    },
+    {
+        "id": 2,
+        "name": "Alimentos",
+        "subcategory": [
+            {
+                "id": 6,
+                "name": "Alimentos",
+                "image": "../src/assets/menu/complementos/2023-12_Baguette_Suprema.png",
+                "products": [
+                    {
+                        "id": 1,
+                        "name": "Para disfrutar a cualquier hora",
+                        "image": "../src/assets/menu/complementos/2023-12_Baguette_Suprema.png",
+                        "subproducts": [
+                            {
+                                "id": 1,
+                                "name": "Baguette Suprema",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "635 kcal 245 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Baguette_Suprema.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 2,
+                                "name": "Ensalada César",
+                                "ingredients": "Pollo grillado (pechuga y piel de pollo, glaseado (agua, sal yodada, harina de trigo, almidón modificado, especias, glutamato monosódico, saborizantes naturales, ácido cítrico, maltodextrina, goma guar, aceite vegetal, carboximetilcelulosa de sodio, guanilato de sodio, inosinato de sodio, colorantes naturales (caramelo clase IV, extracto de paprika), marinador (agua, maltodextrina, sal yodada, fosfato de sodio, saborizante natural, dióxido de silicio (antiapelmazante)), conservadores (benzoato de sodio, sorbato de potasio) y cebolla en polvo )), aderezo césar (agua, aceite vegetal, vinagre de alcohol de caña, azúcares añadidos (azúcar), fibra de trigo, almidón modificado de maíz, queso parmesano 2.1%, especias y condimentos (ajo, mostaza, perejil, pimienta), sal yodada, cloruro de potasio (acentuador de sabor), alginato de sodio y goma xantana (estabilizantes), extracto de levadura, cebolla, ácido fosfórico (acidulante), saborizantes natural e idéntico al natural, monoestearato de sorbitán (emulsificante), sorbato de potasio y ácido sórbico (conservadores), EDTA disódico cálcico (secuestrante)), lechuga mini romana, jitomate cherry, lechuga sangría, pasta mini fusilli (agua, pasta (sémola de trigo duro, sulfato ferroso, nicotinamida (niacina), mononitrato de tiamina (Vitamina B1), riboflavina (vitamina B2) y ácido fólico) y queso parmesano.",
+                                "allergens": "Contiene gluten (trigo) y derivados lácteos. Este producto es elaborado en equipo donde se procesan otros ingredientes por lo que puede contener trazas de soya, huevo, cacahuates, nueces, sésamo, pescado, crustáceos, mariscos y/o derivados",
+                                "information": "193 kcal 230 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Ensalada Cesar_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 3,
+                                "name": "Sándwich de Pavo y Panela",
+                                "ingredients": "Pan multigrano (harina de trigo, agua, harina integral, amaranto, harina de centeno, mezcla de semillas (ajonjolí blanco, salvado, avena, linaza, semilla de girasol, ajonjolí negro), mejorantes para panadería, propionato de sodio, sulfato de aluminio y sodio [como conservador], gluten de trigo, fibra de avena, ajonjolí negro y blanco), queso panela (leche entera fluida de vaca, proteína concentrada de leche, grasa vegetal, estabilizante, cloruro de calcio, cuajo y sal yodada), jamón de pechuga de pavo (pechuga de pavo, soya, agua, nitritos, nitratos y fosfatos de sodio, color rojo carmín, dextrosa y extracto sabor humo natural), hojas de espinaca y/o lechuga, aderezo de yogurt (Yogurt natural (leche entera pasteurizada de vaca, leche descremada en polvo, crema pasteurizada de leche de vaca, azúcar, estabilizantes y cultivos liofilizados), crema entera (crema pasteurizada de vaca con 25% grasa, ácido cítrico, mono y diglicéridos, goma guar y benzoato de sodio (0.025%) como conservador), aderezo mayonesa (agua, azúcar y/o jarabe de maíz de alta fructosa, aceite de soya, almidón de maíz modificado, yema de huevo, sal yodada, ácido acético, harina de mostaza, benzoato de sodio y sorbato de potasio como conservadores, goma de xantano, especias, condimentos, ácido fosfórico), salsa inglesa, cebollín, sal, pimienta negra y conservador).",
+                                "allergens": "Gluten, soya, huevo, leche y sus derivados.Puede contener trazas de nueces, almendras, cacahuate.",
+                                "information": "462 kcal 228 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Sandwich Pavo Panela_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 4,
+                                "name": "Piadini de Claras con Espinaca",
+                                "ingredients": "Pan (harina de trigo, agua, aceite de oliva, germen de trigo, sal yodatada, levadura (Saccharomyces cerevisiae), propionato de calcio, mejorante (mezcla de harina de trigo, emulsificantes (alfa amilasas, ADA y ácido ascórbico))), clara de huevo, imitación queso cheddar blanco (proteína de leche y grasa vegetal, adicionado con estabilizantes, ácido cítrico, colorante, sal yodatada y conservador), crema dulce para batir (crema de leche, estabilizador (goma guar, goma de algarrobo, carboximetil-celulosa de sodio y goma xantana)), queso ricotta (leche pasteurizada, suero pasteurizado, vinagre, almidón modificado, goma guar, carragenina, sal yodatada y sorbato de potasio), espinaca, almidón modificado, mantequilla (grasas de leche de vaca, agua, sólidos de la leche, lecitina de soya, sal yodada) y sal yodatada.",
+                                "allergens": "Gluten, derivados lácteos y huevo. Puede contener trazas de nueces, almendra, cacahuates y soya.",
+                                "information": "312 kcal 192 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Piadini de claras con Espinacas_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 5,
+                                "name": "Panini 3 Quesos",
+                                "ingredients": "Pan imitación ciabatta (Harina de trigo enriquecida (tiamina, ácido fólico, riboflavina, niacina, hierro y zinc), agua, malta, fermento, sal yodada, levadura (Saccharomyces cerevisiae), aceite de canola, azúcar, ésteres mixtos acéticos y tartáricos de mono y diglicéridos de ácidos grasos, propionato de calcio como conservador), queso imitación gouda (leche entera pasteurizada de vaca, sal yodada, cloruro de calcio, cuajo y cultivos lácticos), queso imitación mozzarella (proteína de leche, grasa vegetal, estabilizantes (almidón modificado de maíz), sal yodatada, citrato de sodio, ácido cítrico, conservadores naturales (nisina y pimarisina), color, (bióxido de titanio y sabor natural enzimático))), queso de cabra con cenizas (Leche entera pasteurizada de cabra, sal yodada, ceniza grado alimenticio, sorbato de potasio, y propionato de sodio (para mantener frescura), cloruro de calcio, cultivos lácticos, y cuajo.), y tomate deshidratado (Tomate deshidratado, sal yodada, especias, laurel, orégano, ajo, cebolla, benzoato de sodio y sorbato de potasio (como conservadores), TBHQ y sulfito de sodio)",
+                                "allergens": "Contiene: gluten de trigo, centeno, leche, derivados lácteos y sulfitos. Puede contener trazas de huevo, soya, nueces, almendras y cacahuate",
+                                "information": "697 kcal 198 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Panini 3 quesos_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 6,
+                                "name": "Grilled Cheese Sándwich",
+                                "ingredients": "Pan tipo brioche ( Harina de trigo, mix para pan de caja (harina de trigo enriquecida (niacina, hierro reducido, tiamina, riboflavina y ácido fólico), azúcar, suero de leche, sal, aceite de canola, propionato de sodio, harina de soya, emulsificantes (monoglicéridos de ácidos grasos, ésteres de ácido diacetil tartárico) y enzimas), agua, huevo, gel color amarillo (agua, almidón, glicerina, azúcar, ácido cítrico, conservadores, amarillo 5 y 6, azul 1 y 2, rojo 3 y 4 o bióxido de titanio), azúcar refinada, levadura instantánea, margarina, mantequilla y propionato de calcio como conservador. Queso gouda (Leche semidescremada pasteurizada, Sal, Cloruro de calcio, Cuajo, Fermento láctico, Nitrato de sodio) Queso cheddar amarillo (Leche pasteurizada, cultivo de queso, sal, enzimas, fecula de papa, celulosa en polvo, color vegetal) Queso mozzarella (Leche Pasteurizada, Cultivo De Queso, Sal, y Enzimas).",
+                                "allergens": "Contiene gluten, soya, huevo, leche y derivados lácteos. Puede contener trazas de almendras, nueces, cacahuates, frutos secos como arándanos, pasas y sus derivados.",
+                                "information": "470 kcal 160 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Grilled Cheese Sandwich_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 7,
+                                "name": "Envuelto Poblano",
+                                "ingredients": "Masa (harina de trigo (harina de trigo, gluten, hierro (sulfato ferroso), niacina, zinc (óxido de zinc), tiamina, riboflavina, ácido fólico, peróxido de benzoilo, azodicarbonamida, enzima y ácido ascórbico), agua, manteca vegetal, azúcar, sal yodada, sorbato de potasio), relleno poblano (queso crema, rajas poblanas, cebolla, elote en grano, pollo, azúcar y caldo de pollo en polvo), huevo (barnizado), queso parmesano, pan molido y paprika (decorado).",
+                                "allergens": "Contiene: gluten de trigo, derivados lácteos y huevo. Puede contener trazas de huevo, soya, nueces, almendras y cacahuate",
+                                "information": "476 kcal 200 g",
+                                "image": "../src/assets/menu/complementos/2022-02_ENVUELTO POBLANO_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 8,
+                                "name": "Baguette Clásica",
+                                "ingredients": "Harina de TRIGO, agua, levadura, sal, gluten de TRIGO, fibra de Baguette: TRIGO, agente de tratamiento de la harina (E300), harina de malta de TRIGO. Pechuga de Pavo: Carne de pavo, agua, fécula, almidón modificado, proteína aislada de soya, sal yodada, carragenina, dextrosa, maltodextrina, fosfato de sodio, lactato de sodio, saborizantes naturales y artificiales, eritorbato de sodio, citrato de sodio, nitrito de sodio, carmí. Aderezo: Aceite vegetal, agua, yema de huevo, azúcares añadidos (fructosa), vinagre, chile chipotle, sal yodada, especias, jugo de limón, saborizante natural, harina de mostaza y EDT",
+                                "allergens": "Contiene trigo y huevo, puede contener trazas de: leche y soya.",
+                                "information": "540 kcal 241 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Baguette Clasico_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 9,
+                                "name": "Baguette Española",
+                                "ingredients": "Harina de TRIGO, agua, levadura, sal, gluten de TRIGO, fibra de Baguette: TRIGO, agente de tratamiento de la harina (E300), harina de malta de TRIGO. Chorizo: Carne y grasa de cerdo, sal, azúcares (lactosa y azúcar), dextrina, especias, polifosfato sódico, polifosfato potásico, ácido sórbico, ascorbato sódico, nitrato potásico, nitrito de sodio y rojo cochinilla. Queso gouda: Leche entera y pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo y natamicina como conservador. Aderezo: Aceite vegetal, agua, yema de huevo, azúcares añadidos (fructosa), vinagre, chile chipotle, sal yodada, especias, jugo de limón, saborizante natural, harina de mostaza y EDT",
+                                "allergens": "Contiene trigo y huevo, puede contener trazas de: leche y soya.",
+                                "information": "630 kcal 194 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Baguette Española_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 10,
+                                "name": "Bagel con pechuga y queso",
+                                "ingredients": "Harina de trigo integral (gluten), azúcar, sal yodada, levadura, semóla de maíz, gluten de trigo, mono y diglicéridos, propionato de calcio, goma gar, enzimas, ácido sórbico, grasa vegetal, maltodexgtrina, alginato sódico, lecitina de soya. embutido de pavo (carne de pavo, agua, sazonador (almidón de papa, proteínas de soya, sal yodada, almidón de maíz modificado, carragenina, saborizante artificial (leche, soya), azúcares añadidos (dextrosa), nitrito de sodio, tripolifosfato de sodio, eritorbato de potasio,benzoato de sodio, sorbato de potasio)), almidones modificados y estabilizados de maíz, sal yodada, nitrito de sodio, nisina, carmín cochinilla y aroma de humo artificial) queso gouda: leche entera y pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo y natamicina como conservador.",
+                                "allergens": "Contiene gluten y soya.",
+                                "information": "370 kcal 174 g",
+                                "image": "../src/assets/menu/complementos/2022-02_BagelJamonQueso_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 11,
+                                "name": "Bagel con Guacamole y Queso Crema",
+                                "ingredients": "Bagel: harina de trigo integral (gluten), azúcar, sal yodada, levadura, semóla de maíz, gluten de trigo, mono y diglicéridos, propionato de calcio, goma gar, enzimas, ácido sórbico, grasa vegetal, maltodexgtrina, alginato sódico y lecitina de soya. Queso crema:Leche, crema, agua, suero de leche, cultivos lácticos, sal, sorbato de potasio como conservador, estabilizantes (ácido láctico, goma guar, goma algarrobo, goma xantana), Guacamole: Pulpa de aguacate, jitomate, cebolla, chile jalapeño, jugo de limón, sal y cilantro.",
+                                "allergens": "Contiene leche, gluten y soya.",
+                                "information": "440 kcal 180 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Bagel Guacamole y Queso crema_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 12,
+                                "name": "Breakfast Muffin",
+                                "ingredients": "English Muffin: HARINA DE TRIGO (GLUTEN), GRANO DE TRIGO, LEVADURA, AZÚCAR, SAL, PROPIONATO DE CALCIO, ÁCIDO SÓRBICO, ACEITE VEGETAL, GLUTEN DE TRIGO, VINAGRE, HARINA DE SOYA, LECHE DESCREMADA, SÓLIDOS DE LA LECHE. Empanada de huevo revuelto: Huevo Entero, Leche Descremada, Aceite de Soya, Sal, Almidón Modificado, Saborizante Natural y Artificial a Mantequilla (Aceite de Soya, Mantequilla, Grasa de Mantequilla Lipolizada, Saborizantes Naturales y Artificiales), Saborizantes Naturales y Artificiales de Huevo (Yema de Huevo Deshidratada, Almidón Modificado, Leche en Polvo, Leche en Polvo Descremada, Saborizantes Naturales y Artificiales, Sal), Goma Xanthan, Acido Cítrico. Pechuga de pavo: Carne de pavo, agua, fécula, almidón modificado, proteína aislada de soya, sal yodada, carragenina, dextrosa, maltodextrina, fosfato de sodio, lactato de sodio, saborizantes naturales y artificiales, eritorbato de sodio, citrato de sodio, nitrito de sodio, carmí. Queso gouda: Leche entera y pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo y natamicina como conservador.",
+                                "allergens": "Gluten, huevo, leche y soya",
+                                "information": "240 kcal 130 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Breakfast Muffin_1.png",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Momentos dulces",
+                        "image": "../src/assets/menu/complementos/2023-12_Dona-Old-Fashioned.png",
+                        "subproducts": [
+                            {
+                                "id": 1,
+                                "name": "Dona Old Fashioned Vainilla",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "395 kcal 94 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Dona-Old-Fashioned.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 2,
+                                "name": "Dona Caramelo",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "403 kcal 81 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Dona-Caramelo.png",
+                                "description": ""
+                            },
+                            {
+        
+                                "id": 3,
+                                "name": "Celebration Cake",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "555 kcal 150 g",
+                                "image": "../src/assets/menu/complementos/2023-12_CelebrationCake02.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 4,
+                                "name": "Pastel de zanahoria",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "628.7 kcal 165 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Pastel-de-Zanahoria.png",
+                                "description": ""
+                            },                        
+                            {
+                                "id": 5,
+                                "name": "Pan de elote",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "415 kcal 121 g",
+                                "image": "../src/assets/menu/complementos/2023-12_pan-de-elote.png",
+                                "description": ""  
+                            },
+                            {
+                                "id": 6,
+                                "name": "Tarta de Moras con Chocolate Blanco",
+                                "ingredients": "Harina de trigo, blueberry o zarzamoras, chispa de sabor chocolate, margarina, leche condensada, mantequilla, crema para batir, azúcar glass, huevo, glucosa, grasa vegetal, chocolate blanco, sal",
+                                "allergens": "Gluten, huevo y derivados lácteos. Producto elaborado en equipos que procesan nueces, almendras, etc.",
+                                "information": "512.2 kcal 130 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Tarta-de-Moras-con-Chocolate-Blanco-_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 7,
+                                "name": "Pastel de Chocolate",
+                                "ingredients": "Azúcar refinada, huevo entero, leche entera, harina de trigo, mantequilla, cocoa, almidón modificado de maíz, vinagre, propionato de calcio, leudante, sal yodatada, bicarbonato de sodio, jarabe de azúcar, ganache de chocolate (Crema dulce, chocolate semiamargo, mantequilla, azúcar invertido, color negro) y nuez.",
+                                "allergens": "Alergenos: Gluten, huevo, nuez y leche.Puede contener trazas de almendra, cacahuate y soya",
+                                "information": "796,4 kcal 220 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Pastel de Chocolate_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 8,
+                                "name": "Cheesecake Brulee con Frambuesa",
+                                "ingredients": "Queso crema (leche y crema pasteurizada, cultivos lácticos, sal, estabilizantes), azúcar refinada, huevo líquido, galleta molida (harina de trigo adicionada con ácido fólico, zinc, hierro, vitamina B1 (mononitrato de tiamina), vitamina B2 (riboflavina) y vitamina B3 (niacina), aceite vegetal, azúcar, jarabe de maíz de alta fructosa, suero de leche, sal yodada, glucosa, bicarbonato de sodio, bicarbonato de amonio, metabisulfito de sodio y saborizantes artificiales y naturales), crema de leche (crema de leche, estabilizador (goma guar, goma de algarrobo, carboximetil-celulosa de sodio y goma xantano), relleno de frambuesa (jugo de frutas, azúcar, dextrosa, almidón de maíz modificado, ácido cítrico, saborizante artificial, citrato de sodio, gomas naturales, sal yodada, benzoato de sodio como conservador, ácido tartárico, sucralosa, colorantes artificiales (rojo #5, azul #1), crema ácida (leche pasteurizada y grasa butírica, cultivos lácticos, leche descremada, suero de leche grado A, almidón de maíz modificado, tripolifosfato de sodio, goma guar, carragenina, sulfato de calcio, sorbato de potasio, goma de algarroba), mantequilla (grasa de leche de vaca, agua, sólidos de la leche, lecitina de soya, sal yodada y colorante natural (extracto de annato)), chocolate blanco (azúcar, leche entera, manteca de cacao, emulsificantes (lecitina de soya, poliglicerol de polirricinoleato), saborizantes artificiales y saborizante natural, sal), almidón de maíz modificado, ácido cítrico y sabor vainilla (agua, alcohol etílico, propilenglicol, colorante caramelo clase 1 y saborizantes artificiales).",
+                                "allergens": "Alérgenos: Huevo, gluten, derivados lácteos y soya. Puede contener trazas de nueces, almendras y cacahuate",
+                                "information": "600,3 kcal 175 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Cheesecake Brulee con Frambuesa_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 9,
+                                "name": "Panque de linaza",
+                                "ingredients": "Leche entera, harina de trigo, azúcar moscabado, huevo entero, aceite comestible, granola (hojuelas de avena, hojuelas de maíz, sémola de trigo, almendras, arroz inflado, aceite vegetal de soya, polidextrosa, saborizante natural y artificial, glicerina, sucralosa, sal yodada y antioxidante BHT), miel de abeja, arándano, uva pasa, germen de trigo, linaza, vinagre, monoglicéridos, almidón modificado de trigo, bicarbonato de sodio, canela molida, fibra de avena, leudante (carbonato de calcio, bicarbonato de sodio, sulfato de aluminio y pirofosfato ácido de sodio), propionato de calcio (como conservador), extracto de vainilla, sal yodatada y goma xantana.",
+                                "allergens": "Gluten, huevo y leche. Puede contener trazas de almendra y nuez",
+                                "information": "389 kcal 146 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Panque de Linaza_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 10,
+                                "name": "Panque de limón",
+                                "ingredients": "Azúcar refinada, harina de trigo, crema ácida, huevo, aceite comestible de canola, mono y diglicéridos destilados, estearoil lactilato de sodio, leudante (carbonato de calcio, bicarbonato de sodio, sulfato dealuminio y pirofosfato ácido de sodio), sabor limón, sal yodatada, goma xantana, sorbato de potasio (como conservador), agua y color verde.",
+                                "allergens": "Gluten, huevo y derivados lácteosPuede contener trazas de soya, nuez y cacahuates.",
+                                "information": "501 kcal 148 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Panque de Limon_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 11,
+                                "name": "Muffin de Chocochips",
+                                "ingredients": "Harina de trigo, agua, azúcar, chocolate, aceite comestible, azúcar moscabado, azúcar refinada, huevo, margarina, cocoa, leche entera en polvo, almidón modificado de trigo, vainilla, propionato de sodio,goma xantana, bicarbonato de sodio, leudante (carbonato de calcio, bicarbonato de sodio, sulfato de aluminio y pirofosfato ácido de sodio), café soluble, sal yodatada y sorbato de potasio.",
+                                        "allergens": "Alergenos: Gluten, huevo, leche y soya.Puede contener trazas de: nueces y almendra",
+                                "information": "566 kcal 145 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Muffin Chocochips_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 12,
+                                "name": "Muffin de Blueberry",
+                                "ingredients": "Harina de trigo, azúcar refinada, huevo entero, mora azul, leche entera, aceite comestible, yogurt natural, mantequilla, emulsificante (mono y diglicéridos destilados, esteraoil lactilato de sodio), sal yodatada, vainilla, goma xantana, leudante (carbonato de calcio, bicarbonato de sodio, sulfato de aluminio pirofosfato ácido de sodio), sorbato de potasio como conservador y bicarbonato de sodio.",
+                                "allergens": "Gluten, huevo, leche y derivados lácteos.Puede contener trazas de nuez, almendra y derivados de soya.",
+                                "information": "480 kcal 140 g",
+                                "image": "../src/assets/menu/complementos/2022-02_muffin de blueberry_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 13,
+                                "name": "Mini Cronut Chocolate Blanco",
+                                "ingredients": "Masa (para todas las donas): Harina de TRIGO, grasa vegetal (palma), agua, margarina (grasa vegetal (palma), agua, aceites vege tales (soja, girasol), emulgentes (E471), acidulante (E330), colorant e (E160a)), azúcar, levadura, sal, gluten de TRIGO, antiapelmazante (E 170), emulgentes (E471, E472, E322 (girasol, TRIGO)), dextrosa, harina malteada de TRIGO y agente de tratamiento de la harina (E300). Cobertura 27%: Azúcar, grasas vegetales (coco, p almiste), suero de la LECHE en polvo, LACTOSA, almidón, estabilizante (E492), emulgente (E322). Decorado 4,5%: Azúcar, manteca de cacao, LE CHE en polvo, pasta de cacao, aroma.",
+                                "allergens": "Contiene glúten, leche y derivados, avellana y nueces. También puede contener trazas de huevo o sus derivados y de soya.",
+                                "information": "222 kcal 44 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Mini Cronut Chocolate Blanco_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 14,
+                                "name": "Mini Cronut Chocolate",
+                                "ingredients": "Masa (para todas las donas): Harina de TRIGO, grasa vegetal (palma), agua, margarina (grasa vegetal (palma), agua, aceites vege tales (soja, girasol), emulgentes (E471), acidulante (E330), colorant e (E160a)), azúcar, levadura, sal, gluten de TRIGO, antiapelmazante (E 170), emulgentes (E471, E472, E322 (girasol, TRIGO)), dextrosa, harina malteada de TRIGO y agente de tratamiento de la harina (E300). Cobertura 20%: Azúcar, grasas vegetales (coco, palmiste), cacao desgrasado en polvo 1,8%, LECHE en polvo, aromas, estab ilizante (E492), emulgente (E322). Decorado 5%: AVELLANA y azúcar.",
+                                "allergens": "Contiene glúten, leche y derivados, avellana y nueces. También puede contener trazas de huevo o sus derivados y de soya.",
+                                "information": "203 kcal 40 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Mini cronut chocolate_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 15,
+                                "name": "Dona de Chocolate",
+                                "ingredients": "Harina de trigo enriquecido (niacina, hierro reducido, tiamina, riboflavina y ácido fólico), azúcar, dextrosa, aceite vegetal, suero de leche, harina de soya, huevo en polvo, cocoa, almidón modificado, sal, lecitina de soya, pirofosfato ácido de sodio, monoglicérido, fosfato monocalcico, bicarbonato de sodio, sabor artificial y enzimas. COBERTURA: Azúcar, grasa vegetal hidrogenada, sólidos de cocoa, almidón, carbonato de calcio, harina de algarrobo, lecitina de soya (como emulsificante) y sabor idéntico al natural (vainillina).",
+                                "allergens": "Trigo (gluten), huevo, derivados lácteos y soya.Puede contener trazas de nueces",
+                                "information": "430 kcal 90 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Dona de Chocolate_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 16,
+                                "name": "Cronut de Chocolate",
+                                "ingredients": "Harina de TRIGO, grasa vegetal (palma), agua, margarina (grasa vegetal (palma), agua, aceites vegetales (soja, girasol), emulgentes (E 471), acidulante (E330), colorante (E160a)), azúcar, levadura, sal, gluten de TRIGO, antiapelmazante (E170), emulgentes (E471, E472, E322)), dextrosa, harina malteada de TRIGO y agente de tratamiento de la harina (E300). Cobertura 16%: Azúcar, grasa vegetal (coco, palma, palmiste), cacao desgrasado en polvo, LECHE en polvo, aromas naturales, estabilizante (E492) y emulgente (E322). Decorado 4,2%: mezcla chocolates (azúcar, manteca, cacao, pasta cacao, LECHE polvo, LECHE desnatada polvo, mantequilla (LECHE), emulgente (E322, E476), aromas naturales y espesante (E414)).",
+                                "allergens": "Contiene: gluten (trigo) y leche. Puede contener: frutos de cáscara (avellanas y nueces), huevos y soya.",
+                                "information": "468 kcal 95 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Cronut Chocolate_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 17,
+                                "name": "Bagel Tradicional con Mermelada y Queso Crema",
+                                "ingredients": "Harina de trigo integral (gluten), azúcar, sal yodada, levadura, semóla de maíz, gluten de trigo, mono y diglicéridos, propionato de calcio, goma gar, enzimas, ácido sórbico, grasa vegetal, maltodexgtrina, alginato sódico y lecitina de soya. Mermelada: Fresa o chabacano, jarabe de maíz de alta fructuosa, jarabe de maíz, azúcar, pectina de fruta y ácido cítrico. Queso crema:Leche, crema, agua, suero de leche, cultivos lácticos, sal, sorbato de potasio como conservador, estabilizantes (ácido láctico, goma guar, goma algarrobo, goma xantana)",
+                                "allergens": "Contiene leche, gluten y soya.",
+                                "information": "498 kcal 151 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Bagel Tradicional con Mermelada y Queso Crema_1.png",
+                                "description": ""
+                            }                    
+                        ] 
+                    },
+                    {
+                        "id": 3,
+                        "name": "Recién horneado",
+                        "image": "../src/assets/menu/complementos/2023-12_Strudel de Manzana.png",
+                        "subproducts": [
+                            {
+                                "id": 1,
+                                "name": "Struddel Manzana",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "301 kcal 100 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Strudel de Manzana.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 2,
+                                "name": "Biscuit Dulce de Leche",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "276 kcal 85 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Biscuit-Dulce-de-Leche.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 3,
+                                "name": "Biscuit de Arándanos con Queso",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "318 kcal 85 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Biscuit Arandano.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 4,
+                                "name": "Pan de queso",
+                                "ingredients": "Almidón de yuca, leche , queso parmesano (leche parcialmente descremada, sal, enzimas, cultivos, harina de arroz, manteca vegetal, harina de maíz), queso cotija (leche y/o productos de estas, cultivos de bacterias de fermentos innocuas productoras de ácido láctico y/o modificadores del sabor y aroma, enzimas inocuas e idóneas), huevo líquido pasteurizado , aceite vegetal comestible (puede contener canola, girasol y soya) y sal (cloruro de sodio, fluoruro de potasio, yodato de potasio).",
+                                "allergens": "Huevo, soya, leche y sus derivados",
+                                "information": "288 kcal 100 g",
+                                "image": "../src/assets/menu/complementos/2023-03_Pan-de-quesoFF.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 5,
+                                "name": "Croissant de Mantequilla con Pechuga y Queso",
+                                "ingredients": "Pan croissant (harina de trigo, agua, azúcares añadidos (azúcar dextrosa), gluten de trigo, levadura, huevo líquido pasteurizado, sal yodada, ácido ascórbico, ésteres de glicerol y ácidos grasos del ácido diacetil tartárico), embutido de pavo (carne de pavo, agua, sazonador (almidón de papa, proteínas de soya, sal yodada, almidón de maíz modificado, carragenina, saborizante artificial (leche, soya), azúcares añadidos (dextrosa), nitrito de sodio, tripolifosfato de sodio, eritorbato de potasio,benzoato de sodio, sorbato de potasio)), almidones modificados y estabilizados de maíz, sal yodada, nitrito de sodio, nisina, carmín cochinilla y aroma de humo artificial), queso gouda  (leche entera pasteurizada de vaca, cloruro de sodio, cloruro de calcio, cultivos lácticos, cuajo, natamicina).",
+                                "allergens": "Contiene: gluten, huevos y leche. Puede contener frutos de cáscara, soja y sésamo",
+                                "information": "437 kcal 149 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Crossaint de Mantequilla con pechuga de pavo y queso_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 6,
+                                "name": "Pan de Chocolate",
+                                "ingredients": "Harina de trigo, agua, mantequilla, chocolate (azúcar, pasta de cacao 6,8%, manteca de cacao 0,44%, emulgente E322 (lecitinas (soja))), azúcar, levadura, gluten de trigo, sal, huevo liquido pasteurizado, mejorador de la panificación (ácido ascórbico), dextrosa, emulgente (ésteres diacetiltartaricos y de los ácidos grasoso del glicerol).",
+                                "allergens": "Contiene gluten, huevos, soja y leche. Puede contener frutos de cáscara y sésamo",
+                                "information": "200 kcal 85 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Pan de Chocolate_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 7,
+                                "name": "Croissant de Mantequilla",
+                                "ingredients": "Harina de trigo, mantequilla, agua, azúcar, gluten de trigo, levadura, huevo líquido pasteurizado, sal, agente de tratamiento de la harina E300), dextrosa, emulgente (E472e).",
+                                "allergens": "Contiene: gluten, huevos y leche. Puede contener frutos de cáscara, soja y sésamo",
+                                "information": "150 kcal 70 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Croissant Mantequilla_1.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 8,
+                                "name": "Cheesecake Roulet",
+                                "ingredients": "Masa: Harina de TRIGO, margarina vegetal (grasa vegetal (palma), aceites vegetales (soja, girasol), jarabe de glucosa-fructosa, agua, emulsionantes (E322, E471), acidulante (E330), aromas, colorante (E160a)), agua , levadura, dextrosa, sal, gluten de TRIGO, emulgentes E472e, E471) , espesantes (E415, E412), aroma natural, agente de tratamiento de la harina (E300, E920). Relleno 34%: Relleno de queso 23% (crema de QU ESO, azúcar, agua, jarabe de glucosa, HUEVO entero , clara de HUEVO, almidón modificado, acidulante (E270), espesantes (E466, E460), aroma natural, colorante (E171), emulgente (E471), sal), relleno de frambuesa a 11% (azúcar, frambuesa, agua, jarabe de glucosa, gelificantes (E440 , E401), acidulante (E330), correctores de acidez (E331, E341), colorante (zumo de frutas y vegetales), aroma). Cobertura 3,3%: Azúcar, HUEVO líquido pasteurizado.",
+                                "allergens": "Contiene glúten, huevo, leche y derivados. Puede contener trazas de frutos de cáscara, soja, pescado, sésamo.",
+                                "information": "307 kcal 80 g",
+                                "image": "../src/assets/menu/complementos/2022-02_Cheesecake Roulet_1.png",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Para compartir",
+                        "image": "../src/assets/menu/complementos/2023-12_Media-docena-croissants-pechuga-y-queso.png",
+                        "subproducts": [
+                            {
+                                "id": 1,
+                                "name": "Media docena de croissants de pechuga y queso",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "2622 kcal 894 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Media-docena-croissants-pechuga-y-queso.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 2,
+                                "name": "Panqué completo de limón",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "3553.9 kcal 1050 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Panqué-de-limón.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 3,
+                                "name": "Panadería Bis",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "1200 kcal 480 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Panaderia-Bis.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 4,
+                                "name": "Pan de queso 4x3",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "1153.6 kcal 400 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Pan-de-Queso-4x3.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 5,
+                                "name": "Docena de minicronuts",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "1326 kcal 264 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Docena-Minicronuts.png",
+                                "description": ""
+                            },
+                            {
+                                "id": 6,
+                                "name": "Media Docena de donas de chocolate",
+                                "ingredients": "",
+                                "allergens": "",
+                                "information": "2580 kcal 540 g",
+                                "image": "../src/assets/menu/complementos/2023-12_Media-Docena-de-Donas-Doble-Chocolate.png",
+                                "description": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]   
+    }
+]

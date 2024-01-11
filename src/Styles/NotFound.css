@@ -1,0 +1,21 @@
+.not__found-container{
+    max-width: 1240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+
+.not__found-container h5{
+    font-size: 3.2rem;
+    font-weight: 700;
+}
+.not__found-container p{
+    line-height: 30px;
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 0;
+}

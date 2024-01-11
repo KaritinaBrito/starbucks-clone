@@ -1,0 +1,33 @@
+.menu-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-top: 5rem;
+}
+.menu-title span{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.menu-title h2{
+    font-size: 3rem;
+    font-weight: 700;
+    width: 600px;
+    margin-top: 10px;
+}
+.menu-products__subtitle{
+    width: 100%;
+    padding: 2rem;
+    border-top: 1px solid var(--gray);
+    border-bottom: 1px solid var(--gray);
+    font-size: 1.6rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.menu-products__grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}

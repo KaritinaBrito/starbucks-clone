@@ -1,0 +1,47 @@
+[
+    {   
+        "category": [
+            {
+                "id": 1,
+                "name": "Bebidas",
+                "subcategory": [
+                    {
+                        "id": 1,
+                        "name": "Bebida caliente",
+                        "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                        "products": [
+                            {
+                                "id": 1,
+                                "name": "Espresso y cafe"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Espresso Tradicional"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Alternativas al café"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "frapuccino",
+                        "image": "../src/assets/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
+                        "products": [
+                            {
+                                "id": 1,
+                                "name": "Frappuccino Café"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Frappuccino Crema"
+                            }                    
+                        ]
+                    }
+                ]
+            }
+    
+        ]
+    }
+]

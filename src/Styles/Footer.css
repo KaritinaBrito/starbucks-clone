@@ -1,0 +1,155 @@
+footer{
+    width: 100%;
+    padding-left: 2rem;
+    margin-top: 30px;
+    box-shadow: 0px -5px 15px -3px rgba(0,0,0,0.1);
+    background: #fff;
+}
+.footer-container{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    
+}
+.footer-container__contact{
+    display: flex;
+    gap: 50px;
+    line-height: 1.7rem;
+    border-bottom: 1px solid #ecedee;
+    padding-bottom: 50px;
+
+}
+.footer-container__contact h3 {
+    font-size: 2rem;
+    letter-spacing: .2rem;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.contact__about,
+.contact__customer-service{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.contact__about li,
+.contact__customer-service  li{
+    font-size: 1.6rem;
+    color: var(--gray);
+    margin-bottom: 10px;
+    margin-top: 30px;
+    font-weight: 500;
+}
+.footer-container__media{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    gap: 30px;
+}
+.list__social-media{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.list__social-media li{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: black;
+    text-align: center; 
+}
+.list__social-media .icons {
+    font-size: 2rem;   
+    fill: white;
+    margin-top: 10px;
+}
+.menu-legal{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    font-size: 1.4rem;
+    color: #9f9c9c;
+}
+.menu-legal a{
+    font-size: 1.4rem;
+    color: #9f9c9c;
+}
+.menu-legal li::after{
+    content: '|';
+    color: #9f9c9c;
+    margin-left: 15px;
+}
+.copyright-creation{
+    display: flex;
+    flex-direction: column;
+}
+.copyright{
+    font-size: 1.6rem;
+    color: #9f9c9c
+}
+.creation-date{
+    font-size: 1.4rem;
+    color:#9f9c9c;
+    padding-bottom: 1.5rem
+}
+.arrow-icon{
+    display: none;
+}
+
+
+@media screen and (max-width: 768px){
+    .footer-container__contact{
+        flex-direction: column;
+        padding-left: 20px;
+        padding-right: 20px;
+        gap: 30px;
+    }
+    .footer-container__contact h3 {
+        font-size: 1.5rem;
+        letter-spacing: .2rem;
+        font-weight: 500;
+        margin-bottom: 15px;
+    }
+    .arrow-section{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+    .arrow-icon{
+        display: block;
+        font-size: 2rem;
+        cursor: pointer;
+    }
+    .dropdown-about,
+    .dropdown-contact{
+        display: none;
+    }
+    .dropdown-about.active,
+    .dropdown-contact.active{
+        display: block;
+    }
+    .list__social-media li{
+        width: 30px;
+        height: 30px;
+    }
+    .list__social-media .icons {
+        font-size: 2rem;   
+        margin-top: 5px;
+    }
+    .menu-legal{
+        gap: 10px;
+        font-size: 1.2rem;
+        flex-wrap: wrap;
+    }
+    .menu-legal a{
+        font-size: 1.2rem;
+
+    }
+    .copyright{
+        font-size: 1.4rem;
+    }
+    .creation-date{
+        font-size: 1rem;
+    }
+}

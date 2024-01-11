@@ -1,0 +1,129 @@
+.login__container{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    height: 100vh;
+    width: 100%;
+}
+.login__container-left{
+    background: linear-gradient(0deg, rgb(29, 57, 50) 0%, rgb(10, 105, 75) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: 100%;
+    padding-bottom: 25%;
+    z-index: 1;
+    width: 100%;
+    max-height: calc(100%);
+
+}
+.login__container-left h1{
+    font-weight: 700;
+    color: var(--white);
+    font-size: 3rem;
+    letter-spacing: 1.5px;
+}
+.login__container-right{
+    z-index: 0;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.login-footer{
+    padding-left: 2rem;
+}
+.form-login{
+    background: #edebe9;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.form-login form{
+    padding: 7rem;
+}
+.field-login__label{
+    font-size: 1.4rem;
+}
+.field-login__label::before{
+    content: '* ';
+    color: red;
+}
+.field-login__input{
+    position: relative;
+}
+.field-login__input input{
+    border: none;
+    border-bottom: 1px solid #d1d4d6;
+    background: none;
+    font-weight: 700;
+    width: 85%;
+    padding-left: 1rem;
+    font-size: 1.6rem;
+    outline: none;
+}
+.btn-login{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 3rem;
+}
+.btn-login button{
+    padding: 15px 25px;
+    width: 150px;
+    background: #00a862;
+    color: var(--white);
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+.rewards-login{
+    padding: 3rem;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.rewards-login h2{
+    font-size: 2.2rem;
+    letter-spacing: 1.5px;
+}
+.rewards-login p{
+    font-size: 1.8rem;
+}
+.rewards-login__btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+.rewards-login__btn img{
+    max-width: 250px;
+    letter-spacing: 2.5px;
+}
+.rewards-login__btn a{
+    padding: 15px 25px;
+    border: 1px solid #00a862;
+    border-radius: 25px;
+    text-align: center;
+    color: var(--green-starbucks);
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.rewards-login__btn a:hover{
+    background: #00a8622c;
+}
+@media screen and (max-width: 992px){
+    .login__container{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 3fr;
+    }
+    .login__container-right {
+        overflow: visible;
+    }
+    
+}
