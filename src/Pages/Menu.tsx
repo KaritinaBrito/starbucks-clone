@@ -13,11 +13,11 @@ const Menu = () => {
           <span>¡Disfrútalos!</span>
           <h2>Conoce nuestras bebidas y alimentos de temporada</h2>
         </div>
-        <div className="menu-products">
-          {data.map((cat) => (
-            <>
-              {cat.category.map((subcat) => (
-                <div key={subcat.id}>
+        {data.map((cat) => (
+          <>
+            {cat.category.map((subcat) => (
+              <div className="menu-products" key={subcat.id}>
+                <div>
                   <div className="menu-products__subtitle">
                     <h3>{subcat.name}</h3>
                   </div>
@@ -35,10 +35,10 @@ const Menu = () => {
                     ))}
                   </div>
                 </div>
-              ))}
-            </>
-          ))}
-        </div>
+              </div>
+            ))}
+          </>
+        ))}
       </section>
       <Footer />
     </>

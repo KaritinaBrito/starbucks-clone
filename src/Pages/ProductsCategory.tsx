@@ -31,6 +31,8 @@ const ProductsCategory = () => {
     fetchData();
   }, [name]);
 
+  console.log(products);
+
   return (
     <>
       <section className="menu-container">
@@ -44,7 +46,7 @@ const ProductsCategory = () => {
               <>
                 {prods.map((item) => (
                   <>
-                    <div className="menu-products__subtitle">
+                    <div className="menu-products__subtitle" key={item.id}>
                       <h3>{item.name}</h3>
                     </div>
                     <div className="menu-products__grid">

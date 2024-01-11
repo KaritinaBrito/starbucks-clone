@@ -30,7 +30,10 @@ const ProductCard = () => {
             return res[0];
           })
         );
-        setCard(itemSelected);
+        const notUndefined = itemSelected.map((item) =>
+          item.filter((el) => el !== undefined)
+        );
+        setCard(notUndefined);
       } catch (error) {
         console.log("Error fetching data: ", error);
       }
@@ -42,9 +45,9 @@ const ProductCard = () => {
 
   return (
     <>
-      <section className="product-card__container">
-        {card.map((elemS) => (
-          <>
+      {card.map((elemS) => (
+        <>
+          <section className="product-card__container" key={elemS[0].id}>
             <div className="product__header">
               <div>
                 <img src={elemS[0].image} alt={elemS[0].name} />
@@ -57,9 +60,9 @@ const ProductCard = () => {
             <div className="product__article">
               <p>{elemS[0].description}</p>
             </div>
-          </>
-        ))}
-      </section>
+          </section>
+        </>
+      ))}
       <Footer />
     </>
   );

@@ -12,36 +12,71 @@
                         "products": [
                             {
                                 "id": 1,
-                                "name": "Espresso y cafe"
-                            },
-                            {
-                                "id": 2,
-                                "name": "Espresso Tradicional"
-                            },
-                            {
-                                "id": 3,
-                                "name": "Alternativas al café"
+                                "name": "Espresso y cafe",
+                                "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                "subproducts": [
+                                    {
+                                        "id": 1,
+                                        "name": "Espresso",
+                                        "ingredients": "",
+                                        "allergens": "",
+                                        "information": "0 Kcal",
+                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                        "description": ""
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Espresso Doppio",
+                                        "ingredients": "",
+                                        "allergens": "",
+                                        "information": "0 Kcal",
+                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
+                                        "description": ""
+                                    }
+                                ]
                             }
-                        ]
-                    },
-                    {
-                        "id": 2,
-                        "name": "frapuccino",
-                        "image": "../src/assets/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
-                        "products": [
-                            {
-                                "id": 1,
-                                "name": "Frappuccino Café"
-                            },
-                            {
-                                "id": 2,
-                                "name": "Frappuccino Crema"
-                            }                    
                         ]
                     }
                 ]
-            }
-    
+            },
+            {
+                "id": 2,
+                "name": "Alimentos",
+                "subcategory": [
+                    {
+                        "id": 1,
+                        "name": "Bebida caliente",
+                        "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                        "products": [
+                            {
+                                "id": 1,
+                                "name": "Espresso y cafe",
+                                "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                "subproducts": [
+                                    {
+                                        "id": 1,
+                                        "name": "Espresso",
+                                        "ingredients": "",
+                                        "allergens": "",
+                                        "information": "0 Kcal",
+                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                        "description": ""
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Espresso Doppio",
+                                        "ingredients": "",
+                                        "allergens": "",
+                                        "information": "0 Kcal",
+                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
+                                        "description": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }     
         ]
     }
 ]
