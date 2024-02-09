@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <section className="home-container">
         <Banner
-          image="/src/assets/2023-11_la-magia-de-tu-bebiba-favorita.png"
+          image="/assets/2023-11_la-magia-de-tu-bebiba-favorita.png"
           title="LA MAGIA EN TU BEBIDA FAVORITA"
           description="Siente el cariño de esta temporada con tus favoritos y llena de sabor cada momento."
           phraseText="#LlevemosLaMagia"
@@ -17,7 +17,7 @@ const Home = () => {
           button="inactive"
         />
         <Banner
-          image="/src/assets/2023-11_rojo-es-el-color-de-la-temporada.png"
+          image="../src/assets/2023-11_rojo-es-el-color-de-la-temporada.png"
           title="ROJO ES EL COLOR DE LA TEMPORADA"
           description="Disfruta del color rojo con este favorito que nos visita de vuelta: Red Velvet Latte o Frappuccino® ¡Preparado con amor, más amor y mucho más amor!"
           phraseText="#LlevemosLaMagia"
@@ -26,7 +26,7 @@ const Home = () => {
           button="inactive"
         />
         <Banner
-          image="/src/assets/2023-11_ buenos-deseos-en-cada-sorbo.png"
+          image="../assets/2023-11_ buenos-deseos-en-cada-sorbo.png"
           title="BUENOS DESEOS EN CADA SORBO"
           description="Que tus fiestas tengan notas a chocolate y ciruela. Compártelo con amigos y familiares."
           phraseText="#LlevemosLaMagia"
