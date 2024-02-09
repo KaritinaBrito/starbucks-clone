@@ -21,7 +21,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                        "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
                                         "description": ""
                                     },
                                     {
@@ -30,7 +30,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
+                                        "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
                                         "description": ""
                                     }
                                 ]
@@ -59,7 +59,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                        "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
                                         "description": ""
                                     },
                                     {
@@ -68,7 +68,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
+                                        "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
                                         "description": ""
                                     }
                                 ]
