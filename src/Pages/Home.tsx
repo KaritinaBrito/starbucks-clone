@@ -35,7 +35,7 @@ const Home = () => {
           button="inactive"
         />
         <Banner
-          image="/src/assets/2023-11_recompensas-en-tu-bebida-favorita.png"
+          image="../src/assets/2023-11_recompensas-en-tu-bebida-favorita.png"
           title="RECOMPENSAS EN TU BEBIDA FAVORITA"
           description="Sé parte de Starbucks Rewards y obtén más café gratis, promociones exclusivas, accesos a productos antes que nadie y más."
           phrase="inactive"
