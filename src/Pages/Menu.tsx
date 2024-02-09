@@ -1,10 +1,25 @@
 import { Link } from "react-router-dom";
-import data from "../menu2.json";
 import Footer from "../components/Footer";
 import ProductsMenu from "../components/ProductsMenu";
 import "../Styles/Menu.css";
+import { useEffect, useState } from "react";
 
 const Menu = () => {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch("/menu2.json");
+        const data = await response.json();
+
+        setData(data);
+      } catch (error) {
+        console.log("Error fetching data: ", error);
+      }
+    };
+    fetchData();
+  }, []);
   return (
     <>
       <section className="menu-container">

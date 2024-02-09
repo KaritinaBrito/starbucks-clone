@@ -13,7 +13,7 @@ const ProductsCategory = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/src/menu2.json");
+        const response = await fetch("/menu2.json");
         const data = await response.json();
         const category = data.map((cat) =>
           cat.category.map((sub) => {
