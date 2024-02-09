@@ -61,7 +61,7 @@ const Register = () => {
                     <div>
                       <IoAlertCircleOutline className="alert-icon" />
                       <p className="field-register__message">
-                        {errors.name.message}
+                        {errors.name?.message?.toString()}
                       </p>
                     </div>
                   )}
@@ -88,7 +88,7 @@ const Register = () => {
                     <div>
                       <IoAlertCircleOutline className="alert-icon" />
                       <p className="field-register__message">
-                        {errors.lastname?.message}
+                        {errors.lastname?.message?.toString()}
                       </p>
                     </div>
                   )}
@@ -120,7 +120,7 @@ const Register = () => {
                     <div>
                       <IoAlertCircleOutline className="alert-icon" />
                       <p className="field-register__message">
-                        {errors.email.message}
+                        {errors.email?.message?.toString()}
                       </p>
                     </div>
                   )}
@@ -149,7 +149,7 @@ const Register = () => {
                     <div>
                       <IoAlertCircleOutline className="alert-icon" />
                       <p className="field-register__message">
-                        {errors.confirmEmail.message}
+                        {errors.confirmEmail?.message?.toString()}
                       </p>
                     </div>
                   )}
@@ -190,7 +190,7 @@ const Register = () => {
                       <FaRegEyeSlash className="eye-icon" />
                       <FaRegEye className="eye-icon inactive" />
                       <p className="field-register__message">
-                        {errors.password?.message}
+                        {errors.password?.message?.toString()}
                       </p>
                       <p className="field-register__message">
                         Al menos una letra minúscula
@@ -235,7 +235,7 @@ const Register = () => {
                       <FaRegEyeSlash className="eye-icon" />
                       <FaRegEye className="eye-icon inactive" />
                       <p className="field-register__message">
-                        {errors.confirmPassword.message}
+                        {errors.confirmPassword?.message?.toString()}
                       </p>
                     </div>
                   )}
@@ -365,7 +365,7 @@ const Register = () => {
                         <div>
                           <IoAlertCircleOutline className="alert-icon" />
                           <p className="field-register__message">
-                            {errors.starbucksCard.message}
+                            {errors.starbucksCard?.message?.toString()}
                           </p>
                         </div>
                       )}
@@ -396,7 +396,7 @@ const Register = () => {
                         <div>
                           <IoAlertCircleOutline className="alert-icon" />
                           <p className="field-register__message">
-                            {errors.securityCode.message}
+                            {errors.securityCode?.message?.toString()}
                           </p>
                         </div>
                       )}
@@ -439,14 +439,13 @@ const Register = () => {
                 </div>
                 {errors.legal2 && (
                   <p className="field-register__message">
-                    {errors.legal2.message}
+                    {errors.legal2?.message?.toString()}
                   </p>
                 )}
               </div>
               <div className="button-container">
                 <button type="submit">Registrame</button>
               </div>
-              <pre>{JSON.stringify(watch())}</pre>
             </form>
           </div>
           <div className="banner-register">

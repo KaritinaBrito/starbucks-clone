@@ -48,7 +48,7 @@ const Login = () => {
                   <div>
                     <IoAlertCircleOutline className="alert-icon" />
                     <p className="field-register__message">
-                      {errors.user.message}
+                      {errors.user?.message?.toString()}
                     </p>
                   </div>
                 )}
@@ -73,7 +73,7 @@ const Login = () => {
                   <div>
                     <IoAlertCircleOutline className="alert-icon" />
                     <p className="field-register__message">
-                      {errors.password.message}
+                      {errors.password?.message?.toString()}
                     </p>
                   </div>
                 )}

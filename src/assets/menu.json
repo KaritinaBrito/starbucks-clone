@@ -45,7 +45,7 @@
                 "subcategory": [
                     {
                         "id": 1,
-                        "name": "Bebida caliente",
+                        "name": "Alimento",
                         "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
                         "products": [
                             {
