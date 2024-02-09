@@ -8,12 +8,12 @@
                     {
                         "id": 1,
                         "name": "Bebida caliente",
-                        "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                        "image": "/images/menu/bebidasCalientes/2023-12_Espresso.png",
                         "products": [
                             {
                                 "id": 1,
                                 "name": "Espresso y cafe",
-                                "image": "../src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                "image": "/images/menu/bebidasCalientes/2023-12_Espresso.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -21,7 +21,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso.png",
+                                        "image": "/images/menu/bebidasCalientes/2023-12_Espresso.png",
                                         "description": ""
                                     },
                                     {
@@ -30,7 +30,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
+                                        "image": "/images/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
                                         "description": ""
                                     },
                                     {
@@ -39,7 +39,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Corto: 0 kcal / Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2023-12_cafe-del-dia.png",
+                                        "image": "/images/menu/bebidasCalientes/2023-12_cafe-del-dia.png",
                                         "description": ""
                                     },
                                     {
@@ -48,7 +48,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Corto: 0 kcal / Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                        "image": "/src/assets/menu/bebidasCalientes/2022-02_espresso-americano_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_espresso-americano_1.png",
                                         "description": "Los shots de espresso cubiertos con agua caliente crean una ligera capa de crema que culmina en esta taza de maravillosa profundidad."
                                     }
                                 ]
@@ -56,7 +56,7 @@
                             {
                                 "id": 2,
                                 "name": "Espresso Tradicional",
-                                "image": "../src/assets/menu/bebidasCalientes/2022-02_latte-macchiato_0_1.png",
+                                "image": "/images/menu/bebidasCalientes/2022-02_latte-macchiato_0_1.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -64,7 +64,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Corto: 120 kcal / Alto: 130 kcal / Grande: 220 kcal / Venti: 300 kcal",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_latte-macchiato_0_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_latte-macchiato_0_1.png",
                                         "description": "Leche perfectamente vaporizada, recibe los característicos shots de ristretto, de nuestro intenso espresso."
                                     },
                                     {
@@ -73,7 +73,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Corto: 110 kcal / Alto: 120 kcal / Grande: 170 kcal / Venti: 230 kcal ",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_flat-white_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_flat-white_1.png",
                                         "description": "Los suaves shots de ristretto, de espresso, obtienen la cantidad perfecta de leche entera al vapor para crear un sabor no demasiado fuerte, no demasiado cremoso y perfecto."
                                     },
                                     {
@@ -82,7 +82,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 240 kcal / Grande: 410 kcal / Venti: 510 kcal ",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_mocha-blanco_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_mocha-blanco_1.png",
                                         "description": "Nuestro característico espresso se combina con salsa de chocolate blanco, leche al vapor y crema batida crean esta delicia suprema de chocolate blanco."
                                     },
                                     {
@@ -91,7 +91,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 240 kcal / Grande: 410 kcal / Venti: 510 kcal ",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_mocha_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_mocha_1.png",
                                         "description": "Combinamos nuestro espresso, lleno de cuerpo, con salsa de chocolate y leche al vapor; lo completamos con crema batida. La clásica bebida con café para satisfacer a los que les gusta un poco de dulce en su día."
                                     },
                                     {
@@ -100,7 +100,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 160 kcal / Grande: 200 kcal / Venti: 260 kcal  ",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_caramel-macchiato_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_caramel-macchiato_1.png",
                                         "description": "Leche al vapor manchada con espresso y un toque de vainilla, cubierta con un característico dibujo de caramelo. Dulce, intenso y único."
                                     },
                                     {
@@ -109,7 +109,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 120 kcal / Grande: 150 kcal / Venti: 190 kcal ",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_cappuccino_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_cappuccino_1.png",
                                         "description": "Intenso espresso bajo la capa gruesa y espumosa de leche cuidadosamente vaporizada."
                                     },
                                     {
@@ -118,7 +118,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 120 kcal / Grande: 150 kcal / Venti: 200 kcal",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_latte_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_latte_1.png",
                                         "description": "Nuestro característico espresso, dulce y equilibrado, con leche al vapor con una ligera y aterciopelada capa de espuma."
                                     }
                                 ]
@@ -126,7 +126,7 @@
                             {
                                 "id": 3,
                                 "name": "Alternativas al café",
-                                "image": "../src/assets/menu/bebidasCalientes/2022-02_chocolate-caliente_1.png",
+                                "image": "/images/menu/bebidasCalientes/2022-02_chocolate-caliente_1.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -134,7 +134,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Corto: 230 kcal / Alto: 320 kcal / Grande: 410 kcal / Venti: 500 kcal ",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-02_chocolate-caliente_1.png",
+                                        "image": "/images/menu/bebidasCalientes/2022-02_chocolate-caliente_1.png",
                                         "description": "Leche vaporizada combinada con salsa de chocolate y vainilla, cubierto con crema batida y espiral de salsa de chocolate."
                                     },
                                     {
@@ -143,7 +143,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 243 kcal / Grande: 308 kcal / Venti: 408 kcal ",
-                                        "image": "../src/assets/menu/bebidasCalientes/2022-01_ChocolateCalienteFrontal_5_1.jpg",
+                                        "image": "/images/menu/bebidasCalientes/2022-01_ChocolateCalienteFrontal_5_1.jpg",
                                         "description": "Los sabores tradicionales del cacao, con toques a canela, se mezclan perfectamente con leche para consentirte."
                                     }
                                 ]
@@ -153,12 +153,12 @@
                     {
                         "id": 2,
                         "name": "frapuccino",
-                        "image": "../src/assets/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
+                        "image": "/images/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
                         "products": [
                             {
                                 "id": 1,
                                 "name": "Frappuccino Café",
-                                "image": "../src/assets/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
+                                "image": "/images/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -166,7 +166,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 310 kcal / Grande: 410 kcal / Venti: 510 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_mocha-blanco-frappuccino_1.png",
                                         "description": "Una mezcla de chocolate Blanco con café, hielo y leche, podría ser lo mejor que te pudiera pasar en todo el día."
                                     },
                                     {
@@ -175,7 +175,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 120 kcal / Grande: 230 kcal / Venti: 310 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_espresso-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_espresso-frappuccino_1.png",
                                         "description": "Combinación de leche y hielo con shots de espresso, para darle intensidad sofisticada a tu Frappuccino®."
                                     },
                                     {
@@ -184,7 +184,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 260 kcal / Grande: 490 kcal / Venti: 410 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_mocha.frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_mocha.frappuccino_1.png",
                                         "description": "La salsa de chocolate, con la intensidad del café Frappuccino®, leche y hielo se unen para obtener un sabor a mocha que te dejará con ganas de más."
                                     },
                                     {
@@ -193,7 +193,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 144 kcal / Grande: 156 kcal / Venti: 170 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2023-07_cafe-frappuccino.png",
+                                        "image": "/images/menu/frapuccinos/2023-07_cafe-frappuccino.png",
                                         "description": "Mezclamos el café con leche y hielo para crear una de nuestras bebidas más originales de Frappuccino®."
                                     },
                                     {
@@ -202,7 +202,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 310 kcal / Grande: 410 kcal / Venti: 510 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_caramel-frappuccino_2.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_caramel-frappuccino_2.png",
                                         "description": "El jarabe de caramelo se encuentra con el café, la leche y el hielo para una cita en la licuadora, mientras que la crema batida y la salsa de caramelo con mantequilla cubren de amor por encima."
                                     }
                                 ]
@@ -210,7 +210,7 @@
                             {
                                 "id": 2,
                                 "name": "Frappuccino Crema",
-                                "image": "../src/assets/menu/frapuccinos/2023-12_Cookies-and-cream-frappuccino.png",
+                                "image": "/images/menu/frapuccinos/2023-12_Cookies-and-cream-frappuccino.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -218,7 +218,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 330 kcal / Grande: 480 kcal / Venti: 570 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2023-12_Cookies-and-cream-frappuccino.png",
+                                        "image": "/images/menu/frapuccinos/2023-12_Cookies-and-cream-frappuccino.png",
                                         "description": ""
                                     },
                                     {
@@ -227,7 +227,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 240 kcal / Grande: 310 kcal / Venti: 420 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2023-12_Chocolate_Mexicano_Frapp.png",
+                                        "image": "/images/menu/frapuccinos/2023-12_Chocolate_Mexicano_Frapp.png",
                                         "description": ""
                                     },
                                     {
@@ -236,7 +236,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 260 kcal / Grande: 320 kcal / Venti: 380 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_piña-coco-yogurt-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_piña-coco-yogurt-frappuccino_1.png",
                                         "description": "Fusionamos el yogurt natural con salsa de piña-coco y hielos, ideal para cualquier momento del día."
                                     },
                                     {
@@ -245,7 +245,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 260 kcal / Grande: 320 kcal / Venti: 380 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_berry-yogurt-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_berry-yogurt-frappuccino_1.png",
                                         "description": "Combinación de yogurt natural con salsa de moras y mezclados con hielo."
                                     },
                                     {
@@ -254,7 +254,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 240 kcal / Grande: 360 kcal / Venti: 400 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_chai-cream-rappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_chai-cream-rappuccino_1.png",
                                         "description": "Nuestro concentrado de chai (mezcla de tés y especias) se combina con leche y hielos, para tener una experiencia de otro nivel."
                                     },
                                     {
@@ -263,7 +263,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 230 kcal / Grande: 270 kcal / Venti: 320 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_cajeta-cream-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_cajeta-cream-frappuccino_1.png",
                                         "description": "El sabor acaramelado de la cajeta se une con hielo y leche."
                                     },
                                     {
@@ -272,7 +272,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 310 kcal / Grande: 410 kcal / Venti: 510 kcal ",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_vainilla-cream-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_vainilla-cream-frappuccino_1.png",
                                         "description": "Rica y cremosa mezcla de vainilla, cubierta con crema batida."
                                     },
                                     {
@@ -281,7 +281,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 310 kcal / Grande: 410 kcal / Venti: 510 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_chocolate-cream-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_chocolate-cream-frappuccino_1.png",
                                         "description": "Rica y cremosa mezcla de chocolate, cubierta con crema batida."
                                     },
                                     {
@@ -290,7 +290,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 290 kcal / Grande: 380 kcal / Venti: 460 kcal",
-                                        "image": "../src/assets/menu/frapuccinos/2022-02_matcha-green-tea-cream-frappuccino_1.png",
+                                        "image": "/images/menu/frapuccinos/2022-02_matcha-green-tea-cream-frappuccino_1.png",
                                         "description": "Frappuccino base leche, mezclado con Té Matcha, un toque dulce y molido con hielo."
                                     }
                                 ]
@@ -300,12 +300,12 @@
                     {
                         "id": 3,
                         "name": "Bebidas Frías",
-                        "image": "../src/assets/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_1_1.png",
+                        "image": "/images/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_1_1.png",
                         "products": [
                             {
                                 "id": 1,
                                 "name": "Shakens",
-                                "image": "../src/assets/menu/bebidasFrias/2022-02_shaken-black-tea_1.png",
+                                "image": "/images/menu/bebidasFrias/2022-02_shaken-black-tea_1.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -313,7 +313,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 66 kcal / Grande: 88 kcal / Venti: 110 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2022-02_shaken-black-tea_1.png",
+                                        "image": "/images/menu/bebidasFrias/2022-02_shaken-black-tea_1.png",
                                         "description": "Helada y deliciosa bebida a base de Té negro con limonada y ligeramente endulzado."
                                     }
                                 ]
@@ -321,7 +321,7 @@
                             {
                                 "id": 2,
                                 "name": "Refreshers",
-                                "image": "../src/assets/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_1_1.png",
+                                "image": "/images/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_1_1.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -329,7 +329,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 150 kcal / Grande: 189 kcal / Venti: 230 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_1_1.png",
+                                        "image": "/images/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_1_1.png",
                                         "description": "Nuestro exclusivo extracto de café verde mezclado con un refrescante concentrado de frutas (mango y pitahaya), infusiones de pitahaya, limonada y hielo."
                                     },
                                     {
@@ -338,7 +338,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 108 kcal / Grande: 137 kcal / Venti: 167 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2022-02_pink-drink_1.png",
+                                        "image": "/images/menu/bebidasFrias/2022-02_pink-drink_1.png",
                                         "description": "Nuestro clásico Strawberry Acaí con un toque de leche de coco."
                                     },
                                     {
@@ -347,7 +347,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 147 kcal / Grande: 189 kcal / Venti: 232 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2022-02_strawberry-acai-refresher_1_1.png",
+                                        "image": "/images/menu/bebidasFrias/2022-02_strawberry-acai-refresher_1_1.png",
                                         "description": "Nuestro exclusivo extracto de café verde mezclado con un refrescante concentrado de frutas (fresa y acaí), con inclusiones de fresa, limonada y hielo."
                                     },
                                     {
@@ -356,7 +356,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 360 kcal / Grande: 470 kcal / Venti: 550 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_0_1.png",
+                                        "image": "/images/menu/bebidasFrias/2022-02_mango-dragonfruit-refresher_0_1.png",
                                         "description": "Nuestro exclusivo extracto de café verde mezclado con un refrescante concentrado de frutas (mango y pitahaya), infusiones de pitahaya y hielo."
                                     },
                                     {
@@ -365,7 +365,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 108 kcal / Grande: 137 kcal / Venti: 167 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2022-02_strawberry-acai-refresher_0_1.png",
+                                        "image": "/images/menu/bebidasFrias/2022-02_strawberry-acai-refresher_0_1.png",
                                         "description": "Nuestro exclusivo extracto de café verde mezclado con un refrescante concentrado de frutas (fresa y acaí), con inclusiones de fresa y hielo."
                                     },
                                     {
@@ -374,7 +374,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 360 kcal / Grande: 470 kcal / Venti: 550 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2023-12_Mango-Dragonfruit-Frozen-Refresher.png",
+                                        "image": "/images/menu/bebidasFrias/2023-12_Mango-Dragonfruit-Frozen-Refresher.png",
                                         "description": "Una refrescante mezcla de jugos de fruta con sabores intensos (pitahaya), extracto de café verde y trozos de frutas liofilizadas mezclados con limonada y hielo."
                                     },
                                     {
@@ -383,7 +383,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 360 kcal / Grande: 470 kcal / Venti: 550 kcal",
-                                        "image": "../src/assets/menu/bebidasFrias/2023-12_FROZEN-REFRESHER-STRAWBERRY-ACAI.png",
+                                        "image": "/images/menu/bebidasFrias/2023-12_FROZEN-REFRESHER-STRAWBERRY-ACAI.png",
                                         "description": "Una refrescante mezcla de jugos de fruta con sabores intensos (fresa y acai), extracto de café verde y trozos de frutas liofilizadas mezclados con limonada y hielo."
                                     }
                                 ]
@@ -391,7 +391,7 @@
                             {
                             "id": 3,
                             "name": "Starbucks Con Hielo",
-                            "image": "../src/assets/menu/bebidasFrias/2023-12_Brown-Sugar-Shaken-Espresso-Helado.png",
+                            "image": "/images/menu/bebidasFrias/2023-12_Brown-Sugar-Shaken-Espresso-Helado.png",
                             "subproducts": [
                                 {
                                     "id": 1,
@@ -399,7 +399,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 60 kcal / Grande: 80 kcal / Venti: 100 kcal ",
-                                    "image": "../src/assets/menu/bebidasFrias/2023-12_Brown-Sugar-Shaken-Espresso-Helado.png",
+                                    "image": "/images/menu/bebidasFrias/2023-12_Brown-Sugar-Shaken-Espresso-Helado.png",
                                     "description": ""
                                 },
                                 {
@@ -408,7 +408,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 110 kcal / Grande: 150 kcal / Venti: 170 kcal",
-                                    "image": "../src/assets/menu/bebidasFrias/2023-12_Toasted-Vanilla-Shaken-Espresso-Helado.png",
+                                    "image": "/images/menu/bebidasFrias/2023-12_Toasted-Vanilla-Shaken-Espresso-Helado.png",
                                     "description": ""
                                 },
                                 {
@@ -417,7 +417,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 144 kcal / Grande: 156 kcal / Venti: 170 kcal",
-                                    "image": "../src/assets/menu/bebidasFrias/2023-12_Cold-Foam-Cappuccino-Helado.png",
+                                    "image": "/images/menu/bebidasFrias/2023-12_Cold-Foam-Cappuccino-Helado.png",
                                     "description": ""
                                 }
                             ]
@@ -427,12 +427,12 @@
                     {
                         "id": 4,
                         "name": "Bebidas Base Té",
-                        "image": "../src/assets/menu/bebidasTe/2023-12_Manzanilla-Latte.png",
+                        "image": "/images/menu/bebidasTe/2023-12_Manzanilla-Latte.png",
                         "products": [
                             {
                             "id": 1,
                             "name": "Té Latte Caliente",
-                            "image": "../src/assets/menu/bebidasTe/2023-12_Manzanilla-Latte.png",
+                            "image": "/images/menu/bebidasTe/2023-12_Manzanilla-Latte.png",
                             "subproducts": [
                                     {
                                         "id": 1,
@@ -440,7 +440,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                        "image": "../src/assets/menu/bebidasTe/2023-12_Manzanilla-Latte.png",
+                                        "image": "/images/menu/bebidasTe/2023-12_Manzanilla-Latte.png",
                                         "description": ""
                                     },
                                     {
@@ -449,7 +449,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                        "image": "../src/assets/menu/bebidasTe/2023-12_Youthberry-Latte.png",
+                                        "image": "/images/menu/bebidasTe/2023-12_Youthberry-Latte.png",
                                         "description": ""
                                     },
                                     {
@@ -458,7 +458,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                        "image": "../src/assets/menu/bebidasTe/2023-12_mint-latte.png",
+                                        "image": "/images/menu/bebidasTe/2023-12_mint-latte.png",
                                         "description": ""
                                     },
                                     {
@@ -467,7 +467,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                        "image": "../src/assets/menu/bebidasTe/2023-12_Hibiscus-Latte.png",
+                                        "image": "/images/menu/bebidasTe/2023-12_Hibiscus-Latte.png",
                                         "description": ""
                                     },
                                     {
@@ -476,7 +476,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                        "image": "../src/assets/menu/bebidasTe/2023-12_English-Breakfast-Latte.png",
+                                        "image": "/images/menu/bebidasTe/2023-12_English-Breakfast-Latte.png",
                                         "description": ""
                                     },
                                     {
@@ -485,7 +485,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                        "image": "../src/assets/menu/bebidasTe/2022-02_matcha-green-tea-latte_1.png",
+                                        "image": "/images/menu/bebidasTe/2022-02_matcha-green-tea-latte_1.png",
                                         "description": ""
                                     },
                                     {
@@ -494,7 +494,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                        "image": "../src/assets/menu/bebidasTe/2023-12_EmperorsCloudsAndMist-Latte.png",
+                                        "image": "/images/menu/bebidasTe/2023-12_EmperorsCloudsAndMist-Latte.png",
                                         "description": "Té verde con un rico cuerpo y un sabor dulce natural, con hielos."
                                     }
                             ]
@@ -502,7 +502,7 @@
                             {
                             "id": 2,
                             "name": "Infusiones con Tés de Hoja Entera",
-                            "image": "../src/assets/menu/bebidasTe/2023-12_Hibiscus_te.png",
+                            "image": "/images/menu/bebidasTe/2023-12_Hibiscus_te.png",
                             "subproducts":[
                                 {
                                     "id": 1,
@@ -510,7 +510,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                    "image": "../src/assets/menu/bebidasTe/2023-12_Hibiscus_te.png",
+                                    "image": "/images/menu/bebidasTe/2023-12_Hibiscus_te.png",
                                     "description": ""
                                 },
                                 {
@@ -519,7 +519,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                    "image": "../src/assets/menu/bebidasTe/2022-02_manzanilla_1.png",
+                                    "image": "/images/menu/bebidasTe/2022-02_manzanilla_1.png",
                                     "description": "Una mezcla de flores de manzanilla, flores de hibisco, hojas de hierbabuena, hierba limón, pétalos de rosa, hojas de zarzamora, hojas de menta, raíz de zarzaparrilla, melisa, lavanda y caléndula."
                                 },
                                 {
@@ -528,7 +528,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                    "image": "../src/assets/menu/bebidasTe/2022-02_youthberry_1.png",
+                                    "image": "/images/menu/bebidasTe/2022-02_youthberry_1.png",
                                     "description": "Té blanco, inspirado en las superfrutas, el fruto acaí se mezcla con los sabores tropicales de la piña y el mango y con té blanco de alta calidad, equilibrado con rosa mosqueta y manzana verde ácida."
                                 },
                                 {
@@ -537,7 +537,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                    "image": "../src/assets/menu/bebidasTe/2023-12_Mint_te.png",
+                                    "image": "/images/menu/bebidasTe/2023-12_Mint_te.png",
                                     "description": ""
                                 },
                                 {
@@ -546,7 +546,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                    "image": "../src/assets/menu/bebidasTe/2023-12_Emperors-Clouds-And-Mist.png",
+                                    "image": "/images/menu/bebidasTe/2023-12_Emperors-Clouds-And-Mist.png",
                                     "description": "Té verde, exclusivamente recolectado durante el mes de abril a más de mil metros sobre el nivel del mar, este té tiene un rico cuerpo y un sabor dulce natural."
                                 },
                                 {
@@ -555,7 +555,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                    "image": "../src/assets/menu/bebidasTe/2022-02_english-breakfast_2.png",
+                                    "image": "/images/menu/bebidasTe/2022-02_english-breakfast_2.png",
                                     "description": "Un clásico elegante Té negro, complejo y de larga tradición con astringencia suave, equilibrada y notas generosas de miel."
                                 }
                             ]
@@ -563,7 +563,7 @@
                             {
                             "id": 3,
                             "name": "Té Concentrado",
-                            "image": "../src/assets/menu/bebidasTe/2022-02_chai-latte_1.png",
+                            "image": "/images/menu/bebidasTe/2022-02_chai-latte_1.png",
                             "subproducts": [
                                 {
                                     "id": 94,
@@ -571,7 +571,7 @@
                                     "ingredients": "",
                                     "allergens": "",
                                     "information": "Alto: 350 kcal / Grande: 440 kcal / Venti: 540 kcal",
-                                    "image": "../src/assets/menu/bebidasTe/2022-02_chai-latte_1.png",
+                                    "image": "/images/menu/bebidasTe/2022-02_chai-latte_1.png",
                                     "description": "Característico e intenso concentrado de una combinación de tés y especias mezclado con la leche vaporizada."
                                 }
                             ]
@@ -581,12 +581,12 @@
                     {
                         "id": 5,
                         "name": "Cold Brew",
-                        "image": "../src/assets/menu/coldBrew/2023-12_Cold-Brew-W-CF-B.png",
+                        "image": "/images/menu/coldBrew/2023-12_Cold-Brew-W-CF-B.png",
                         "products": [
                             {
                                 "id": 1,
                                 "name": "Starbucks Con Hielo",
-                                "image": "../src/assets/menu/coldBrew/2023-12_Cold-Brew-W-CF-B.png",
+                                "image": "/images/menu/coldBrew/2023-12_Cold-Brew-W-CF-B.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -594,7 +594,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 41 kcal / Grande: 62 kcal / Venti: 84 kcal",
-                                        "image": "../src/assets/menu/coldBrew/2023-12_Cold-Brew-W-CF-B.png",
+                                        "image": "/images/menu/coldBrew/2023-12_Cold-Brew-W-CF-B.png",
                                         "description": ""
                                     },
                                     {
@@ -603,7 +603,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 0 kcal / Grande: 0 kcal",
-                                        "image": "../src/assets/menu/coldBrew/2023-12_Nitro-Cold-Brew.png",
+                                        "image": "/images/menu/coldBrew/2023-12_Nitro-Cold-Brew.png",
                                         "description": ""
                                     },
                                     {
@@ -612,7 +612,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 180 kcal / Grande: 190 kcal / Venti: 210 kcal",
-                                        "image": "../src/assets/menu/coldBrew/2022-02_vainilla-sweet-cream-cold-brew_1.png",
+                                        "image": "/images/menu/coldBrew/2022-02_vainilla-sweet-cream-cold-brew_1.png",
                                         "description": "Bebida refrescante y re-energizante, preparada artesanalmente con un toque de vainilla."
                                     },
                                     {
@@ -621,7 +621,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Alto: 50 kcal / Grande: 60 kcal / Venti: 80 kcal",
-                                        "image": "../src/assets/menu/coldBrew/2022-02_cold-brew_0_1.png",
+                                        "image": "/images/menu/coldBrew/2022-02_cold-brew_0_1.png",
                                         "description": "Café preparado artesanalmente e infusionado durante 20 hrs. para extraer sabores excepcionales."
                                     }
                                 ]
