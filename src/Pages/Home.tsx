@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <section className="home-container">
         <Banner
-          image='"../../src/assets/2023-11_la-magia-de-tu-bebiba-favorita.png'
+          image="../src/assets/2023-11_la-magia-de-tu-bebiba-favorita.png"
           title="LA MAGIA EN TU BEBIDA FAVORITA"
           description="Siente el cariño de esta temporada con tus favoritos y llena de sabor cada momento."
           phraseText="#LlevemosLaMagia"
@@ -17,7 +17,7 @@ const Home = () => {
           button="inactive"
         />
         <Banner
-          image='"../../src/assets/2023-11_rojo-es-el-color-de-la-temporada.png'
+          image="../src/assets/2023-11_rojo-es-el-color-de-la-temporada.png"
           title="ROJO ES EL COLOR DE LA TEMPORADA"
           description="Disfruta del color rojo con este favorito que nos visita de vuelta: Red Velvet Latte o Frappuccino® ¡Preparado con amor, más amor y mucho más amor!"
           phraseText="#LlevemosLaMagia"
@@ -26,7 +26,7 @@ const Home = () => {
           button="inactive"
         />
         <Banner
-          image='"../../src/assets/2023-11_ buenos-deseos-en-cada-sorbo.png'
+          image="../src/assets/2023-11_ buenos-deseos-en-cada-sorbo.png"
           title="BUENOS DESEOS EN CADA SORBO"
           description="Que tus fiestas tengan notas a chocolate y ciruela. Compártelo con amigos y familiares."
           phraseText="#LlevemosLaMagia"
@@ -35,7 +35,7 @@ const Home = () => {
           button="inactive"
         />
         <Banner
-          image='"../../src/assets/2023-11_recompensas-en-tu-bebida-favorita.png'
+          image="../src/assets/2023-11_recompensas-en-tu-bebida-favorita.png"
           title="RECOMPENSAS EN TU BEBIDA FAVORITA"
           description="Sé parte de Starbucks Rewards y obtén más café gratis, promociones exclusivas, accesos a productos antes que nadie y más."
           phrase="inactive"
@@ -45,7 +45,7 @@ const Home = () => {
           buttonText="Descarga la App y regístrate"
         />
         <Banner
-          image='"../../src/assets/2023-11_paga-como-quieras-y-obten-estrellas.png'
+          image="../src/assets/2023-11_paga-como-quieras-y-obten-estrellas.png"
           title="PAGA COMO QUIERAS Y OBTÉN ESTRELLAS"
           description="Ahora tu café te da más beneficios. Obtén estrellas al pagar con tarjetas bancarias, efectivo o Starbucks Card. ¡Tu eliges!"
           phrase="inactive"
@@ -56,7 +56,7 @@ const Home = () => {
           buttonStyle="#1e3933"
         />
         <Banner
-          image='"../../src/assets/2023-11_sorbos-que-cuidan-el-planeta.png'
+          image="../src/assets/2023-11_sorbos-que-cuidan-el-planeta.png"
           title="SORBOS QUE CUIDAN EL PLANETA"
           description="Todos los días tus reusables son bienvenidos. Trae tu vaso a tu Starbucks favorito y recibe un descuento de $8 en tu bebida."
           phraseText="#LlevemosLaMagia"
