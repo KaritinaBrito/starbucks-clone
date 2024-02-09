@@ -13,7 +13,7 @@
                             {
                                 "id": 1,
                                 "name": "Espresso y cafe",
-                                "image": "/images/menu/bebidasCalientes/2023-12_Espresso.png",
+                                "image": "../images/menu/bebidasCalientes/2023-12_Espresso.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -21,7 +21,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/images/menu/bebidasCalientes/2023-12_Espresso.png",
+                                        "image": "../../images/menu/bebidasCalientes/2023-12_Espresso.png",
                                         "description": ""
                                     },
                                     {
@@ -30,7 +30,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "0 Kcal",
-                                        "image": "/images/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
+                                        "image": "../../images/menu/bebidasCalientes/2023-12_Espresso-Doppio.png",
                                         "description": ""
                                     },
                                     {
@@ -39,7 +39,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Corto: 0 kcal / Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                        "image": "/images/menu/bebidasCalientes/2023-12_cafe-del-dia.png",
+                                        "image": "../../images/menu/bebidasCalientes/2023-12_cafe-del-dia.png",
                                         "description": ""
                                     },
                                     {
@@ -48,7 +48,7 @@
                                         "ingredients": "",
                                         "allergens": "",
                                         "information": "Corto: 0 kcal / Alto: 0 kcal / Grande: 0 kcal / Venti: 0 kcal",
-                                        "image": "/images/menu/bebidasCalientes/2022-02_espresso-americano_1.png",
+                                        "image": "../../images/menu/bebidasCalientes/2022-02_espresso-americano_1.png",
                                         "description": "Los shots de espresso cubiertos con agua caliente crean una ligera capa de crema que culmina en esta taza de maravillosa profundidad."
                                     }
                                 ]
@@ -56,7 +56,7 @@
                             {
                                 "id": 2,
                                 "name": "Espresso Tradicional",
-                                "image": "/images/menu/bebidasCalientes/2022-02_latte-macchiato_0_1.png",
+                                "image": "../images/menu/bebidasCalientes/2022-02_latte-macchiato_0_1.png",
                                 "subproducts": [
                                     {
                                         "id": 1,
@@ -126,7 +126,7 @@
                             {
                                 "id": 3,
                                 "name": "Alternativas al café",
-                                "image": "/images/menu/bebidasCalientes/2022-02_chocolate-caliente_1.png",
+                                "image": "../images/menu/bebidasCalientes/2022-02_chocolate-caliente_1.png",
                                 "subproducts": [
                                     {
                                         "id": 1,

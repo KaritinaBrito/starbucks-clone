@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
-import data from "../assets/menu2.json";
-//import dataFood from "../assets/food.json";
+import data from "../../menu2.json";
 import Footer from "../components/Footer";
 import ProductsMenu from "../components/ProductsMenu";
 import "../Styles/Menu.css";

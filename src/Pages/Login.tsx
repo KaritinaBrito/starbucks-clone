@@ -95,7 +95,7 @@ const Login = () => {
           </p>
           <div className="rewards-login__btn">
             <Link to={"/register"}>¡Únete ahora!</Link>
-            <img src="../../src/assets/chica-sbx.png" alt="" />
+            <img src="/images/chica-sbx.png" alt="" />
           </div>
         </div>
         <div className="login-footer">

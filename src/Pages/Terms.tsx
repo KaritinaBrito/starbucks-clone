@@ -12,7 +12,7 @@ const Terms = () => {
         <div className="terms-container">
           <div className="terms-image">
             <img
-              src="../../src/assets/rewards1.png"
+              src="/images/rewards1.png"
               alt="Términos y Condiciones Starbucks Rewards"
             />
           </div>
